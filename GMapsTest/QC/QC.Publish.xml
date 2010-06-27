@@ -1,0 +1,27 @@
+<publishData>
+  <publishTarget publishUrl="ftp://www.dotfermion.org/qc/">
+    <file relUrl="QiblahCalculator.svc" publishTime="01/07/2009 20:17:27" />
+    <file relUrl="bin/QC.dll" publishTime="01/18/2009 05:04:58" />
+    <file relUrl="QiblahCalcMobile.aspx" publishTime="01/15/2009 14:36:37" />
+    <file relUrl="Web.config" publishTime="01/06/2009 11:52:31" />
+    <file relUrl="QiblahCalculator.aspx" publishTime="01/15/2009 17:09:21" />
+    <file relUrl="QiblahCalculator.asmx" publishTime="01/07/2009 20:17:27" />
+    <file relUrl="bin/LibQiblah.dll" publishTime="01/18/2009 05:02:08" />
+    <file relUrl="bin/QC.pdb" publishTime="01/18/2009 05:04:58" />
+    <file relUrl="bin/Microsoft.ServiceHosting.ServiceRuntime.dll" publishTime="01/09/2009 03:07:52" />
+    <file relUrl="bin/LibQiblah.pdb" publishTime="01/18/2009 05:02:08" />
+  </publishTarget>
+  <publishTarget publishUrl="ftp://dotfermion.org/qc/">
+    <file relUrl="QiblahCalculator.svc" publishTime="01/04/2009 16:17:57" />
+    <file relUrl="bin/QC.dll" publishTime="01/07/2009 19:34:24" />
+    <file relUrl="QiblahCalculator.aspx" publishTime="01/06/2009 18:02:17" />
+    <file relUrl="QiblahCalcMobile.aspx" publishTime="01/06/2009 18:10:37" />
+    <file relUrl="Web.config" publishTime="01/06/2009 11:52:31" />
+    <file relUrl="Default.aspx" publishTime="01/06/2009 11:38:00" />
+    <file relUrl="QiblahCalculator.asmx" publishTime="01/07/2009 17:39:46" />
+    <file relUrl="bin/LibQiblah.dll" publishTime="01/06/2009 18:12:26" />
+    <file relUrl="bin/QC.pdb" publishTime="01/07/2009 19:34:24" />
+    <file relUrl="QiblahCalculator.Publish.xml" publishTime="01/07/2009 19:33:58" />
+    <file relUrl="bin/LibQiblah.pdb" publishTime="01/06/2009 18:12:26" />
+  </publishTarget>
+</publishData>

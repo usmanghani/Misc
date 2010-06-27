@@ -1,0 +1,150 @@
+﻿<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8C5FB78E-E9EF-4597-A692-DD6F61955E5B}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QC</RootNamespace>
+    <AssemblyName>QC</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ServiceHosting.ServiceRuntime, Version=0.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.ServiceModel">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\QiblahCalcWeb\IQiblahCalculator.cs">
+      <Link>IQiblahCalculator.cs</Link>
+    </Compile>
+    <Compile Include="..\QiblahCalcWeb\QiblahCalcMobile.aspx.cs">
+      <Link>QiblahCalcMobile.aspx.cs</Link>
+      <DependentUpon>QiblahCalcMobile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="..\QiblahCalcWeb\QiblahCalcMobile.aspx.designer.cs">
+      <Link>QiblahCalcMobile.aspx.designer.cs</Link>
+      <DependentUpon>QiblahCalcMobile.aspx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="..\QiblahCalcWeb\QiblahCalculator.asmx.cs">
+      <Link>QiblahCalculator.asmx.cs</Link>
+      <DependentUpon>QiblahCalculator.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="..\QiblahCalcWeb\QiblahCalculator.aspx.cs">
+      <Link>QiblahCalculator.aspx.cs</Link>
+      <DependentUpon>QiblahCalculator.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="..\QiblahCalcWeb\QiblahCalculator.aspx.designer.cs">
+      <Link>QiblahCalculator.aspx.designer.cs</Link>
+      <DependentUpon>QiblahCalculator.aspx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="..\QiblahCalcWeb\QiblahCalculator.svc.cs">
+      <Link>QiblahCalculator.svc.cs</Link>
+      <DependentUpon>QiblahCalculator.svc</DependentUpon>
+    </Compile>
+    <Compile Include="..\QiblahCalcWeb\QiblahLocation.cs">
+      <Link>QiblahLocation.cs</Link>
+    </Compile>
+    <Compile Include="..\QiblahCalcWeb\Utils.cs">
+      <Link>Utils.cs</Link>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LibQiblah\LibQiblah.csproj">
+      <Project>{374969F1-89A1-4120-B23E-3DC3D33B8BD2}</Project>
+      <Name>LibQiblah</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\QiblahCalcWeb\QiblahCalcMobile.aspx">
+      <Link>QiblahCalcMobile.aspx</Link>
+    </Content>
+    <Content Include="..\QiblahCalcWeb\QiblahCalculator.asmx">
+      <Link>QiblahCalculator.asmx</Link>
+    </Content>
+    <Content Include="..\QiblahCalcWeb\QiblahCalculator.aspx">
+      <Link>QiblahCalculator.aspx</Link>
+    </Content>
+    <Content Include="..\QiblahCalcWeb\QiblahCalculator.svc">
+      <Link>QiblahCalculator.svc</Link>
+    </Content>
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v9.0\WebApplications\Microsoft.WebApplication.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>55562</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

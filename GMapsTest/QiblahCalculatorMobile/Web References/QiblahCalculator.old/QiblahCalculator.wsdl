@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="FindQiblah">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="address" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="gpsUsed" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FindQiblahResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="FindQiblahResult" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FindQiblahString">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="address" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="gpsUsed" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FindQiblahStringResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="FindQiblahStringResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="FindQiblahSoapIn">
+    <wsdl:part name="parameters" element="tns:FindQiblah" />
+  </wsdl:message>
+  <wsdl:message name="FindQiblahSoapOut">
+    <wsdl:part name="parameters" element="tns:FindQiblahResponse" />
+  </wsdl:message>
+  <wsdl:message name="FindQiblahStringSoapIn">
+    <wsdl:part name="parameters" element="tns:FindQiblahString" />
+  </wsdl:message>
+  <wsdl:message name="FindQiblahStringSoapOut">
+    <wsdl:part name="parameters" element="tns:FindQiblahStringResponse" />
+  </wsdl:message>
+  <wsdl:portType name="QiblahCalculatorWSSoap">
+    <wsdl:operation name="FindQiblah">
+      <wsdl:input message="tns:FindQiblahSoapIn" />
+      <wsdl:output message="tns:FindQiblahSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="FindQiblahString">
+      <wsdl:input message="tns:FindQiblahStringSoapIn" />
+      <wsdl:output message="tns:FindQiblahStringSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="QiblahCalculatorWSSoap" type="tns:QiblahCalculatorWSSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="FindQiblah">
+      <soap:operation soapAction="http://tempuri.org/FindQiblah" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FindQiblahString">
+      <soap:operation soapAction="http://tempuri.org/FindQiblahString" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="QiblahCalculatorWSSoap12" type="tns:QiblahCalculatorWSSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="FindQiblah">
+      <soap12:operation soapAction="http://tempuri.org/FindQiblah" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FindQiblahString">
+      <soap12:operation soapAction="http://tempuri.org/FindQiblahString" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="QiblahCalculatorWS">
+    <wsdl:port name="QiblahCalculatorWSSoap" binding="tns:QiblahCalculatorWSSoap">
+      <soap:address location="http://localhost:9183/QiblahCalculator.asmx" />
+    </wsdl:port>
+    <wsdl:port name="QiblahCalculatorWSSoap12" binding="tns:QiblahCalculatorWSSoap12">
+      <soap12:address location="http://localhost:9183/QiblahCalculator.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

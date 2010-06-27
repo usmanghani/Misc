@@ -1,0 +1,10 @@
+C:\Users\ughani\Desktop\GMapsTest\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\ughani\Desktop\GMapsTest\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\ughani\Desktop\GMapsTest\ConsoleApplication2\bin\Debug\StorageClientService.dll
+C:\Users\ughani\Desktop\GMapsTest\ConsoleApplication2\bin\Debug\StorageClient.dll
+C:\Users\ughani\Desktop\GMapsTest\ConsoleApplication2\bin\Debug\StorageClient.pdb
+C:\Users\ughani\Desktop\GMapsTest\ConsoleApplication2\bin\Debug\StorageClient.xml
+C:\Users\ughani\Desktop\GMapsTest\ConsoleApplication2\bin\Debug\StorageClientService.pdb
+C:\Users\ughani\Desktop\GMapsTest\ConsoleApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ughani\Desktop\GMapsTest\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\ughani\Desktop\GMapsTest\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

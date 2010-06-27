@@ -1,0 +1,62 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost/QiblahCalculator/">
+    <file relUrl="QiblahCalculator.svc" publishTime="01/04/2009 16:17:57" />
+    <file relUrl="QiblahCalcMobile.aspx" publishTime="01/06/2009 18:10:37" />
+    <file relUrl="Web.config" publishTime="01/06/2009 16:48:24" />
+    <file relUrl="QiblahCalculator.aspx" publishTime="01/06/2009 18:02:17" />
+    <file relUrl="bin/QiblahCalculator.pdb" publishTime="01/07/2009 20:26:46" />
+    <file relUrl="bin/LibQiblah.dll" publishTime="01/07/2009 20:13:34" />
+    <file relUrl="bin/QiblahCalculator.dll" publishTime="01/07/2009 20:26:46" />
+    <file relUrl="QiblahCalculator.asmx" publishTime="01/07/2009 17:39:46" />
+    <file relUrl="bin/LibQiblah.pdb" publishTime="01/07/2009 20:13:33" />
+  </publishTarget>
+  <publishTarget publishUrl="ftp://dotfermion.org/QiblahCalculator/">
+    <file relUrl="QiblahCalculator.svc" publishTime="01/04/2009 16:17:57" />
+    <file relUrl="QiblahCalcMobile.aspx" publishTime="01/06/2009 18:10:37" />
+    <file relUrl="Web.config" publishTime="01/06/2009 16:48:24" />
+    <file relUrl="QiblahCalculator.aspx" publishTime="01/06/2009 18:02:17" />
+    <file relUrl="bin/QiblahCalculator.pdb" publishTime="01/07/2009 19:32:27" />
+    <file relUrl="bin/LibQiblah.dll" publishTime="01/06/2009 18:12:26" />
+    <file relUrl="bin/QiblahCalculator.dll" publishTime="01/07/2009 19:32:27" />
+    <file relUrl="QiblahCalculator.asmx" publishTime="01/07/2009 17:39:46" />
+    <file relUrl="bin/LibQiblah.pdb" publishTime="01/06/2009 18:12:26" />
+  </publishTarget>
+  <publishTarget publishUrl="ftp://dotfermion.org/qc/">
+    <file relUrl="QiblahCalculator.svc" publishTime="01/04/2009 16:17:57" />
+    <file relUrl="QiblahCalculator.aspx" publishTime="01/05/2009 00:55:13" />
+    <file relUrl="Web.config" publishTime="01/06/2009 11:34:34" />
+    <file relUrl="bin/QiblahCalculator.dll" publishTime="01/06/2009 11:28:59" />
+    <file relUrl="bin/LibQiblah.pdb" publishTime="01/06/2009 11:28:58" />
+    <file relUrl="bin/LibQiblah.dll" publishTime="01/06/2009 11:28:58" />
+    <file relUrl="bin/QiblahCalculator.pdb" publishTime="01/06/2009 11:28:59" />
+  </publishTarget>
+  <publishTarget publishUrl="http://localhost:11111/QiblahCalc/">
+    <file relUrl="QiblahCalculator.svc" publishTime="01/04/2009 16:17:57" />
+    <file relUrl="QiblahCalcMobile.aspx" publishTime="01/06/2009 16:21:06" />
+    <file relUrl="Web.config" publishTime="01/06/2009 16:48:24" />
+    <file relUrl="QiblahCalculator.aspx" publishTime="01/06/2009 16:19:26" />
+    <file relUrl="bin/QiblahCalculator.pdb" publishTime="01/06/2009 16:29:56" />
+    <file relUrl="bin/LibQiblah.dll" publishTime="01/06/2009 11:28:58" />
+    <file relUrl="bin/QiblahCalculator.dll" publishTime="01/06/2009 16:29:57" />
+    <file relUrl="bin/LibQiblah.pdb" publishTime="01/06/2009 11:28:58" />
+  </publishTarget>
+  <publishTarget publishUrl="http://localhost/QiblahCalc/">
+    <file relUrl="QiblahCalculator.svc" publishTime="01/04/2009 16:17:57" />
+    <file relUrl="QiblahCalcMobile.aspx" publishTime="01/06/2009 16:21:06" />
+    <file relUrl="Web.config" publishTime="01/06/2009 16:48:24" />
+    <file relUrl="QiblahCalculator.aspx" publishTime="01/06/2009 16:19:26" />
+    <file relUrl="bin/QiblahCalculator.pdb" publishTime="01/05/2009 18:40:56" />
+    <file relUrl="bin/LibQiblah.dll" publishTime="01/06/2009 11:28:58" />
+    <file relUrl="bin/QiblahCalculator.dll" publishTime="01/05/2009 18:40:57" />
+    <file relUrl="bin/LibQiblah.pdb" publishTime="01/06/2009 11:28:58" />
+  </publishTarget>
+  <publishTarget publishUrl="ftp://www.dotfermion.org/QiblahCalculator/">
+    <file relUrl="QiblahCalculator.svc" publishTime="01/04/2009 16:17:57" />
+    <file relUrl="QiblahCalculator.aspx" publishTime="01/05/2009 00:55:13" />
+    <file relUrl="Web.config" publishTime="01/05/2009 00:29:56" />
+    <file relUrl="bin/QiblahCalculator.dll" publishTime="01/05/2009 00:57:07" />
+    <file relUrl="bin/LibQiblah.pdb" publishTime="01/05/2009 00:55:23" />
+    <file relUrl="bin/LibQiblah.dll" publishTime="01/05/2009 00:55:23" />
+    <file relUrl="bin/QiblahCalculator.pdb" publishTime="01/05/2009 00:57:07" />
+  </publishTarget>
+</publishData>

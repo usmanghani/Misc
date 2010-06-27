@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ServiceConfiguration serviceName="QiblahCalcService" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration">
+  <Role name="Web">
+    <Instances count="2" />
+    <ConfigurationSettings>
+      <Setting name="GoogleMapsApiKey" value="ABQIAAAAJP9dusfocb3BLfD2acw_dRS3WrZNsj5gvKInAwMXGJkhstvWsBSex3wYyG43vADtcZG25Eds-8Sm7g"/>
+    </ConfigurationSettings>
+  </Role>
+</ServiceConfiguration>

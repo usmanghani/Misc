@@ -1,0 +1,5 @@
+C:\Users\ughani.REDMOND\Desktop\GMapsTest\CloudService1\CloudService1_WebRole\bin\CloudService1_WebRole.dll
+C:\Users\ughani.REDMOND\Desktop\GMapsTest\CloudService1\CloudService1_WebRole\bin\CloudService1_WebRole.pdb
+C:\Users\ughani.REDMOND\Desktop\GMapsTest\CloudService1\CloudService1_WebRole\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ughani.REDMOND\Desktop\GMapsTest\CloudService1\CloudService1_WebRole\obj\Debug\CloudService1_WebRole.dll
+C:\Users\ughani.REDMOND\Desktop\GMapsTest\CloudService1\CloudService1_WebRole\obj\Debug\CloudService1_WebRole.pdb

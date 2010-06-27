@@ -1,0 +1,54 @@
+﻿<UserControl xmlns:expressionDark="clr-namespace:System.Windows.Controls.Theming;assembly=System.Windows.Controls.Theming.ExpressionDark"  x:Class="StorageBrowser.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    xmlns:local="clr-namespace:Microsoft.Windows.Controls;assembly=Microsoft.Windows.Controls.WatermarkedTextBox">
+    
+        <Grid Style="{StaticResource MainGrid}"  >
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40" />
+                <!--<RowDefinition Height="20" />-->
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <Grid Style="{StaticResource HeaderGrid}">
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="200" />
+                    <ColumnDefinition Width="50" />
+                </Grid.ColumnDefinitions>
+
+                <Border Style="{StaticResource HeaderBorder}">
+                    <TextBlock Style="{StaticResource HeaderTextBlock}"/>
+                </Border>
+
+                <!--<local:WatermarkedTextBox Name="txtSearchQuery" Style="{StaticResource SearchBox}" />-->
+
+                <Button Name="btnSearch" Click="SearchButton_Click" Style="{StaticResource SearchButton}"/>
+
+            </Grid>
+
+            <StackPanel Grid.Row="2">
+                <Border Style="{StaticResource StatusTextBlockBorder}">
+                    <TextBlock x:Name="txtStatus" Style="{StaticResource StatusText}"/>
+                </Border>
+                <!--<data:DataGrid x:Name="StoriesList" Style="{StaticResource DataGrid}"></data:DataGrid>-->
+                <ListBox Name="StoriesList" Style="{StaticResource StoriesList}">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <StackPanel Style="{StaticResource DiggPanel}">
+                                    <TextBlock Text="{Binding NumDiggs}" Style="{StaticResource NumDiggsBlock}" />
+                                    <TextBlock Text="diggs" Style="{StaticResource NumDiggsSubBlock}"/>
+                                </StackPanel>
+                                <Image Source="{Binding Thumbnail}" Style="{StaticResource ThumbnailPreview}" />
+                                <TextBlock Text="{Binding Title}" Margin="5" Style="{StaticResource TitleBlock}" />
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+
+            </StackPanel>
+        </Grid>
+</UserControl>

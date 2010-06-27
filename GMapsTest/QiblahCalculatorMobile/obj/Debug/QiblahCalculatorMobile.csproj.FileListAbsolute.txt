@@ -1,0 +1,16 @@
+c:\mystuff\testingthings\GMapsTest\QiblahCalculatorMobile\bin\Debug\QiblahCalculatorMobile.exe
+c:\mystuff\testingthings\GMapsTest\QiblahCalculatorMobile\bin\Debug\QiblahCalculatorMobile.pdb
+c:\mystuff\testingthings\GMapsTest\QiblahCalculatorMobile\obj\Debug\ResolveAssemblyReference.cache
+c:\mystuff\testingthings\GMapsTest\QiblahCalculatorMobile\obj\Debug\QiblahCalculatorMobile.MainForm.resources
+c:\mystuff\testingthings\GMapsTest\QiblahCalculatorMobile\obj\Debug\QiblahCalculatorMobile.Properties.Resources.resources
+c:\mystuff\testingthings\GMapsTest\QiblahCalculatorMobile\obj\Debug\QiblahCalculatorMobile.csproj.GenerateResource.Cache
+c:\mystuff\testingthings\GMapsTest\QiblahCalculatorMobile\obj\Debug\QiblahCalculatorMobile.exe
+c:\mystuff\testingthings\GMapsTest\QiblahCalculatorMobile\obj\Debug\QiblahCalculatorMobile.pdb
+C:\Users\ughani.REDMOND\Desktop\GMapsTest\QiblahCalculatorMobile\bin\Debug\QiblahCalculatorMobile.exe
+C:\Users\ughani.REDMOND\Desktop\GMapsTest\QiblahCalculatorMobile\bin\Debug\QiblahCalculatorMobile.pdb
+C:\Users\ughani.REDMOND\Desktop\GMapsTest\QiblahCalculatorMobile\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ughani.REDMOND\Desktop\GMapsTest\QiblahCalculatorMobile\obj\Debug\QiblahCalculatorMobile.MainForm.resources
+C:\Users\ughani.REDMOND\Desktop\GMapsTest\QiblahCalculatorMobile\obj\Debug\QiblahCalculatorMobile.Properties.Resources.resources
+C:\Users\ughani.REDMOND\Desktop\GMapsTest\QiblahCalculatorMobile\obj\Debug\QiblahCalculatorMobile.csproj.GenerateResource.Cache
+C:\Users\ughani.REDMOND\Desktop\GMapsTest\QiblahCalculatorMobile\obj\Debug\QiblahCalculatorMobile.exe
+C:\Users\ughani.REDMOND\Desktop\GMapsTest\QiblahCalculatorMobile\obj\Debug\QiblahCalculatorMobile.pdb

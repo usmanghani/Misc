@@ -1,0 +1,91 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace StorageClientService
+{
+    using Storage = Microsoft.Samples.ServiceHosting.StorageClient;
+
+    internal enum StorageType
+    {
+        Blob, Queue, Table
+    }
+
+    internal class StorageClientHelper
+    {
+        internal static string BlobUri
+        {
+            get
+            {
+                return "http://blob.core.windows.net";
+            }
+        }
+        internal static string QueueUri
+        {
+            get
+            {
+                return "http://queue.core.windows.net";
+            }
+        }
+        internal static string TableUri
+        {
+            get
+            {
+                return "http://table.core.windows.net";
+            }
+        }
+
+        internal static Storage.StorageAccountInfo GetAccountInfo(StorageType storageType, string accountName, string privateKey)
+        {
+            Uri baseUri = null;
+
+            switch (storageType)
+            {
+                case StorageType.Blob:
+                    baseUri = new Uri(BlobUri);
+                    break;
+                case StorageType.Table:
+                    baseUri = new Uri(TableUri);
+                    break;
+                case StorageType.Queue:
+                    baseUri = new Uri(QueueUri);
+                    break;
+            }
+
+            Storage.StorageAccountInfo accountInfo = new Storage.StorageAccountInfo(baseUri, null, accountName, privateKey);
+            return accountInfo;
+        }
+
+        internal static List<DataContracts.BlobContainer> ListBlobContainers(Storage.StorageAccountInfo accountInfo)
+        {
+            Storage.BlobStorage storage = Storage.BlobStorage.Create(accountInfo);
+            List<DataContracts.BlobContainer> result = new List<global::StorageClientService.DataContracts.BlobContainer>();
+            foreach (var bc in storage.ListBlobContainers())
+            {
+                Storage.ContainerProperties props = bc.GetContainerProperties();
+                Storage.ContainerAccessControl ac = bc.GetContainerAccessControl();
+                DataContracts.BlobContainer container = new DataContracts.BlobContainer()
+                {
+                    Name = bc.ContainerName,
+                    Uri = bc.ContainerUri.ToString(),
+                    LastModifiedTime = bc.LastModifiedTime,
+                    ETag = props.ETag,
+                    AccessControl = (DataContracts.ContainerAccessControl)Enum.Parse(typeof(DataContracts.ContainerAccessControl), ac.ToString(), true)
+                };
+                container.Metadata = new Dictionary<string, string>();
+                foreach (string key in props.Metadata.Keys)
+                {
+                    container.Metadata.Add(key, props.Metadata[key]);
+                }
+                result.Add(container);
+            }
+            return result;
+        }
+
+        internal static List<DataContracts.BlobProperties> ListBlobs(string accountName, string privateKey, string container)
+        {
+        }
+
+    }
+}

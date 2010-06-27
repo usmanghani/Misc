@@ -1,0 +1,10 @@
+D:\public-share\GMapsTest\LibDistroCache\bin\Debug\LibDistroCache.dll
+D:\public-share\GMapsTest\LibDistroCache\bin\Debug\LibDistroCache.pdb
+D:\public-share\GMapsTest\LibDistroCache\bin\Debug\LibQiblah.dll
+D:\public-share\GMapsTest\LibDistroCache\bin\Debug\StorageClient.dll
+D:\public-share\GMapsTest\LibDistroCache\bin\Debug\LibQiblah.pdb
+D:\public-share\GMapsTest\LibDistroCache\bin\Debug\StorageClient.pdb
+D:\public-share\GMapsTest\LibDistroCache\bin\Debug\StorageClient.xml
+D:\public-share\GMapsTest\LibDistroCache\obj\Debug\ResolveAssemblyReference.cache
+D:\public-share\GMapsTest\LibDistroCache\obj\Debug\LibDistroCache.dll
+D:\public-share\GMapsTest\LibDistroCache\obj\Debug\LibDistroCache.pdb

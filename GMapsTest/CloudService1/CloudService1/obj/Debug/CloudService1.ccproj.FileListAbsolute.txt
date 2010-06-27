@@ -1,0 +1,14 @@
+C:\Users\ughani.REDMOND\Desktop\GMapsTest\CloudService1\CloudService1\bin\Debug\CloudService1.csx\roles\WebRole\Default.aspx
+C:\Users\ughani.REDMOND\Desktop\GMapsTest\CloudService1\CloudService1\bin\Debug\CloudService1.csx\roles\WebRole\Web.config
+C:\Users\ughani.REDMOND\Desktop\GMapsTest\CloudService1\CloudService1\bin\Debug\CloudService1.csx\roles\WebRole\bin\CloudService1_WebRole.dll
+C:\Users\ughani.REDMOND\Desktop\GMapsTest\CloudService1\CloudService1\bin\Debug\CloudService1.csx\roles\WebRole\bin\CloudService1_WebRole.pdb
+C:\Users\ughani.REDMOND\Desktop\GMapsTest\CloudService1\CloudService1\bin\Debug\CloudService1.csx\roles\WebRole\bin\ucruntime.dll
+C:\Users\ughani.REDMOND\Desktop\GMapsTest\CloudService1\CloudService1\bin\Debug\CloudService1.csx\ServiceDefinition.rd
+C:\Users\ughani.REDMOND\Desktop\GMapsTest\CloudService1\CloudService1\bin\Debug\CloudService1.csx\ServiceDefinition.rdsc
+C:\Users\ughani.REDMOND\Desktop\GMapsTest\CloudService1\CloudService1\bin\Debug\CloudService1.csx\ServiceDefinition.csdef
+C:\Users\ughani.REDMOND\Desktop\GMapsTest\CloudService1\CloudService1\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\ughani.REDMOND\Desktop\GMapsTest\CloudService1\CloudService1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ughani.REDMOND\Desktop\GMapsTest\CloudService1\CloudService1\obj\Debug\CloudService1_WebRole\bin\CloudService1_WebRole.dll
+C:\Users\ughani.REDMOND\Desktop\GMapsTest\CloudService1\CloudService1\obj\Debug\CloudService1_WebRole\bin\CloudService1_WebRole.pdb
+C:\Users\ughani.REDMOND\Desktop\GMapsTest\CloudService1\CloudService1\obj\Debug\CloudService1_WebRole\Default.aspx
+C:\Users\ughani.REDMOND\Desktop\GMapsTest\CloudService1\CloudService1\obj\Debug\CloudService1_WebRole\Web.config

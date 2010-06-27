@@ -1,0 +1,9 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="StorageBrowser" EntryPointType="StorageBrowser.App" RuntimeVersion="2.0.31005.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="StorageBrowser" Source="StorageBrowser.dll" />
+    <AssemblyPart x:Name="Microsoft.Windows.Controls.WatermarkedTextBox" Source="Microsoft.Windows.Controls.WatermarkedTextBox.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls" Source="System.Windows.Controls.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.Theming.ExpressionDark" Source="System.Windows.Controls.Theming.ExpressionDark.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.Theming.Toolkit" Source="System.Windows.Controls.Theming.Toolkit.dll" />
+  </Deployment.Parts>
+</Deployment>

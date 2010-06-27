@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TableStorageTest.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="GoogleMapsApiKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ABQIAAAAJP9dusfocb3BLfD2acw_dRS3WrZNsj5gvKInAwMXGJkhstvWsBSex3wYyG43vADtcZG25Eds-8Sm7g</Value>
+    </Setting>
+    <Setting Name="BlobStorageEndpoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://127.0.0.1:10000</Value>
+    </Setting>
+    <Setting Name="QueueStorageEndpoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://127.0.0.1:10001</Value>
+    </Setting>
+    <Setting Name="TableStorageEndpoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://127.0.0.1:10002</Value>
+    </Setting>
+    <Setting Name="AccountName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">devstoreaccount1</Value>
+    </Setting>
+    <Setting Name="AccountSharedKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Eby8vdM02xNOcqFlqUwJPLlmEtlCDXJ1OUzFT50uSRZ6IFsuFq2UVErCz4I6tq/K1SZFPTOtr/KBHBeksoGMGw==</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

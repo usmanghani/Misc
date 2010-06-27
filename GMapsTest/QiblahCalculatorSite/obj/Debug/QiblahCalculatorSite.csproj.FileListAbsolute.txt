@@ -1,0 +1,5 @@
+c:\mystuff\testingthings\GMapsTest\QiblahCalculatorSite\bin\QiblahCalculatorSite.dll
+c:\mystuff\testingthings\GMapsTest\QiblahCalculatorSite\bin\QiblahCalculatorSite.pdb
+c:\mystuff\testingthings\GMapsTest\QiblahCalculatorSite\obj\Debug\ResolveAssemblyReference.cache
+c:\mystuff\testingthings\GMapsTest\QiblahCalculatorSite\obj\Debug\QiblahCalculatorSite.dll
+c:\mystuff\testingthings\GMapsTest\QiblahCalculatorSite\obj\Debug\QiblahCalculatorSite.pdb

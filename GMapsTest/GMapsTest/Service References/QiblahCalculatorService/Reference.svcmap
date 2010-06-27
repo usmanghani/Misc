@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="fb7e6d05-1413-4ccd-bd0f-f44223e37e65" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:61676/QiblahCalculator.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="QiblahCalculator.xsd" MetadataType="Schema" ID="b05859cf-6ae0-4042-b363-c94dd8272f7d" SourceId="1" SourceUrl="http://localhost:61676/QiblahCalculator.svc?xsd=xsd1" />
+    <MetadataFile FileName="QiblahCalculatorService.wsdl" MetadataType="Wsdl" ID="50b70d28-a3c0-4ebb-b02c-887c57f251ca" SourceId="1" SourceUrl="http://localhost:61676/QiblahCalculator.svc?wsdl" />
+    <MetadataFile FileName="QiblahCalculator1.xsd" MetadataType="Schema" ID="77cc243c-53ab-4837-848b-c922357dafd9" SourceId="1" SourceUrl="http://localhost:61676/QiblahCalculator.svc?xsd=xsd0" />
+    <MetadataFile FileName="QiblahCalculator.disco" MetadataType="Disco" ID="6b14ab6d-d413-4ce4-8715-3773a580cebb" SourceId="1" SourceUrl="http://localhost:61676/QiblahCalculator.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

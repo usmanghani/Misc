@@ -1,0 +1,9 @@
+C:\Users\ughani\Desktop\GMapsTest\StorageClientService\bin\Debug\StorageClientService.dll.config
+C:\Users\ughani\Desktop\GMapsTest\StorageClientService\bin\Debug\StorageClientService.dll
+C:\Users\ughani\Desktop\GMapsTest\StorageClientService\bin\Debug\StorageClientService.pdb
+C:\Users\ughani\Desktop\GMapsTest\StorageClientService\bin\Debug\StorageClient.dll
+C:\Users\ughani\Desktop\GMapsTest\StorageClientService\bin\Debug\StorageClient.pdb
+C:\Users\ughani\Desktop\GMapsTest\StorageClientService\bin\Debug\StorageClient.xml
+C:\Users\ughani\Desktop\GMapsTest\StorageClientService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ughani\Desktop\GMapsTest\StorageClientService\obj\Debug\StorageClientService.dll
+C:\Users\ughani\Desktop\GMapsTest\StorageClientService\obj\Debug\StorageClientService.pdb

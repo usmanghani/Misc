@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceDefinition name="QiblahCalcService" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceDefinition">
+  <WebRole name="Web">
+    <ConfigurationSettings>
+      <Setting name="GoogleMapsApiKey"/>
+    </ConfigurationSettings>
+    <InputEndpoints>
+      <InputEndpoint name="HttpIn" protocol="http" port="80" />
+    </InputEndpoints>
+  </WebRole>
+</ServiceDefinition>
