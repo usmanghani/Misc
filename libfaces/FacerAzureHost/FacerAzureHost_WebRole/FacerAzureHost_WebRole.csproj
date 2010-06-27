@@ -1,0 +1,187 @@
+﻿<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{53D66A39-B74A-4BA4-87AF-DA1605F67B37}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FacerAzureHost_WebRole</RootNamespace>
+    <AssemblyName>FacerAzureHost_WebRole</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <RoleType>Web</RoleType>
+    <ServiceHostingSDKInstallDir Condition=" '$(ServiceHostingSDKInstallDir)' == '' ">$(Registry:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Microsoft SDKs\ServiceHosting\v1.0@InstallPath)</ServiceHostingSDKInstallDir>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+    <Reference Include="Microsoft.ServiceHosting.ServiceRuntime">
+      <HintPath>$(ServiceHostingSDKInstallDir)\ref\Microsoft.ServiceHosting.ServiceRuntime.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\..\..\Program Files\OpenCV\bin\cv110.dll">
+      <Link>Bin\cv110.dll</Link>
+    </Content>
+    <Content Include="..\..\..\Program Files\OpenCV\bin\cvaux110.dll">
+      <Link>Bin\cvaux110.dll</Link>
+    </Content>
+    <Content Include="..\..\..\Program Files\OpenCV\bin\cxcore110.dll">
+      <Link>Bin\cxcore110.dll</Link>
+    </Content>
+    <Content Include="..\..\..\Program Files\OpenCV\bin\ffopencv110.dll">
+      <Link>Bin\ffopencv110.dll</Link>
+    </Content>
+    <Content Include="..\..\..\Program Files\OpenCV\bin\highgui110.dll">
+      <Link>Bin\highgui110.dll</Link>
+    </Content>
+    <Content Include="..\..\..\Program Files\OpenCV\bin\ml110.dll">
+      <Link>Bin\ml110.dll</Link>
+    </Content>
+    <Content Include="Bin\Classifiers\haarcascade_eye.xml" />
+    <Content Include="Bin\Classifiers\haarcascade_eye_tree_eyeglasses.xml" />
+    <Content Include="Bin\Classifiers\haarcascade_frontalface_alt.xml" />
+    <Content Include="Bin\Classifiers\haarcascade_frontalface_alt2.xml" />
+    <Content Include="Bin\Classifiers\haarcascade_frontalface_alt_tree.xml" />
+    <Content Include="Bin\Classifiers\haarcascade_frontalface_default.xml" />
+    <Content Include="Bin\Classifiers\haarcascade_fullbody.xml" />
+    <Content Include="Bin\Classifiers\haarcascade_lowerbody.xml" />
+    <Content Include="Bin\Classifiers\haarcascade_profileface.xml" />
+    <Content Include="Bin\Classifiers\haarcascade_upperbody.xml" />
+    <Content Include="Bin\DotFermion.LibFaces.dll" />
+    <Content Include="Bin\DotFermion.LibFaces.pdb" />
+    <Content Include="Bin\Emgu.CV.dll" />
+    <Content Include="Bin\Emgu.CV.pdb" />
+    <Content Include="Bin\Emgu.CV.xml" />
+    <Content Include="Bin\Emgu.Util.dll" />
+    <Content Include="Bin\Emgu.Util.pdb" />
+    <Content Include="Bin\Emgu.Util.xml" />
+    <Content Include="Bin\msvcr90.dll" />
+    <Content Include="Bin\openCV.Net.dll" />
+    <Content Include="Bin\openCV.Net.pdb" />
+    <Content Include="Bin\vcomp90.dll" />
+    <Content Include="Bin\zlib.net.dll" />
+    <Content Include="Classifiers\haarcascade_eye.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Classifiers\haarcascade_eye_tree_eyeglasses.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Classifiers\haarcascade_frontalface_alt.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Classifiers\haarcascade_frontalface_alt2.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Classifiers\haarcascade_frontalface_alt_tree.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Classifiers\haarcascade_frontalface_default.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Classifiers\haarcascade_fullbody.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Classifiers\haarcascade_lowerbody.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Classifiers\haarcascade_profileface.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Classifiers\haarcascade_upperbody.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Default.aspx" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Bin\Microsoft.VC90.CRT.manifest" />
+    <None Include="Bin\Microsoft.VC90.OpenMP.manifest" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\libFaces\libFaces.csproj">
+      <Project>{D059B25C-470D-47D3-82EF-38069A3F36DF}</Project>
+      <Name>libFaces</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v9.0\WebApplications\Microsoft.WebApplication.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>44855</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

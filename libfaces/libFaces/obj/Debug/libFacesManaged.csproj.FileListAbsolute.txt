@@ -1,0 +1,7 @@
+c:\libfaces\libFacesManaged\bin\Debug\libFacesManaged.dll
+c:\libfaces\libFacesManaged\bin\Debug\libFacesManaged.pdb
+c:\libfaces\libFacesManaged\bin\Debug\face.dll
+c:\libfaces\libFacesManaged\bin\Debug\face.pdb
+c:\libfaces\libFacesManaged\obj\Debug\ResolveAssemblyReference.cache
+c:\libfaces\libFacesManaged\obj\Debug\libFacesManaged.dll
+c:\libfaces\libFacesManaged\obj\Debug\libFacesManaged.pdb

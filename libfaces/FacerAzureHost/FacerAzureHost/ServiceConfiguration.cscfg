@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ServiceConfiguration serviceName="FacerAzureHost" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration">
+  <Role name="Web">
+    <Instances count="1" />
+    <ConfigurationSettings />
+  </Role>
+</ServiceConfiguration>

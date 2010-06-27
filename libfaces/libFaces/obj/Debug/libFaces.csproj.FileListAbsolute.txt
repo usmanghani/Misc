@@ -1,0 +1,15 @@
+C:\libfaces\libFaces\bin\Debug\Emgu.CV.dll.config
+C:\libfaces\libFaces\bin\Debug\DotFermion.LibFaces.dll
+C:\libfaces\libFaces\bin\Debug\DotFermion.LibFaces.pdb
+C:\libfaces\libFaces\bin\Debug\Emgu.CV.dll
+C:\libfaces\libFaces\bin\Debug\Emgu.Util.dll
+C:\libfaces\libFaces\bin\Debug\openCV.Net.dll
+C:\libfaces\libFaces\bin\Debug\zlib.net.dll
+C:\libfaces\libFaces\bin\Debug\Emgu.CV.pdb
+C:\libfaces\libFaces\bin\Debug\Emgu.CV.xml
+C:\libfaces\libFaces\bin\Debug\Emgu.Util.pdb
+C:\libfaces\libFaces\bin\Debug\Emgu.Util.xml
+C:\libfaces\libFaces\bin\Debug\openCV.Net.pdb
+C:\libfaces\libFaces\obj\Debug\ResolveAssemblyReference.cache
+C:\libfaces\libFaces\obj\Debug\DotFermion.LibFaces.dll
+C:\libfaces\libFaces\obj\Debug\DotFermion.LibFaces.pdb
