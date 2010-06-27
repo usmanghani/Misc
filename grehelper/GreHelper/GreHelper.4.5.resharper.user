@@ -1,0 +1,339 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="13" />
+      <Item value="class" priority="1" />
+      <Item value="static" priority="3" />
+      <Item value="WordProvider" priority="9" />
+      <Item value="string" priority="47" />
+      <Item value="private" priority="14" />
+      <Item value="Dictionary" priority="2" />
+      <Item value="wordListRaw" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="if" priority="8" />
+      <Item value="line" priority="2" />
+      <Item value="continue" priority="2" />
+      <Item value="new" priority="20" />
+      <Item value="Dictionary&lt;string,string&gt;" priority="1" />
+      <Item value="dictionary" priority="3" />
+      <Item value="tokens" priority="3" />
+      <Item value="using" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="IO" priority="0" />
+      <Item value="Log" priority="0" />
+      <Item value="FileRecordSequence" priority="5" />
+      <Item value="Properties" priority="4" />
+      <Item value="Settings" priority="3" />
+      <Item value="as" priority="1" />
+      <Item value="logger" priority="21" />
+      <Item value="fileName" priority="0" />
+      <Item value="FileAccess" priority="0" />
+      <Item value="null" priority="5" />
+      <Item value="wp" priority="3" />
+      <Item value="filePath" priority="4" />
+      <Item value="return" priority="12" />
+      <Item value="resourceName" priority="2" />
+      <Item value="Stream" priority="1" />
+      <Item value="bool" priority="2" />
+      <Item value="LoadFromStream" priority="1" />
+      <Item value="fileStream" priority="1" />
+      <Item value="FileStream" priority="1" />
+      <Item value="FileMode" priority="0" />
+      <Item value="Length" priority="0" />
+      <Item value="int" priority="5" />
+      <Item value="currentLineNumber" priority="1" />
+      <Item value="CreateData" priority="0" />
+      <Item value="CreateLogRecord" priority="1" />
+      <Item value="logMessage" priority="1" />
+      <Item value="SequenceNumber" priority="3" />
+      <Item value="RecordAppendOptions" priority="4" />
+      <Item value="Logger" priority="9" />
+      <Item value="void" priority="13" />
+      <Item value="false" priority="10" />
+      <Item value="Write" priority="1" />
+      <Item value="str" priority="1" />
+      <Item value="forceFlush" priority="0" />
+      <Item value="options" priority="1" />
+      <Item value="true" priority="9" />
+      <Item value="StreamReader" priority="2" />
+      <Item value="stream" priority="0" />
+      <Item value="reader" priority="2" />
+      <Item value="ReadWordList" priority="2" />
+      <Item value="content" priority="0" />
+      <Item value="try" priority="1" />
+      <Item value="finally" priority="0" />
+      <Item value="KeyValuePair" priority="2" />
+      <Item value="localDictionary" priority="7" />
+      <Item value="Random" priority="3" />
+      <Item value="random" priority="4" />
+      <Item value="params" priority="0" />
+      <Item value="String" priority="0" />
+      <Item value="format" priority="0" />
+      <Item value="ParamArrayAttribute" priority="0" />
+      <Item value="parameters" priority="0" />
+      <Item value="KeyValuePair&lt;string,string&gt;" priority="0" />
+      <Item value="result" priority="3" />
+      <Item value="key" priority="0" />
+      <Item value="value" priority="0" />
+      <Item value="ChoiceRecord" priority="5" />
+      <Item value="GetRandomWord" priority="1" />
+      <Item value="randomWord" priority="4" />
+      <Item value="const" priority="2" />
+      <Item value="MAXCHOICES" priority="3" />
+      <Item value="record" priority="16" />
+      <Item value="correctIndex" priority="2" />
+      <Item value="for" priority="0" />
+      <Item value="i" priority="1" />
+      <Item value="var" priority="0" />
+      <Item value="w" priority="1" />
+      <Item value="currentIndex" priority="3" />
+      <Item value="Debug" priority="0" />
+      <Item value="DateTime" priority="0" />
+      <Item value="readonly" priority="0" />
+      <Item value="DATETIME_FORMAT_STRING" priority="0" />
+      <Item value="internalString" priority="0" />
+      <Item value="DoNextWord" priority="1" />
+      <Item value="wordProvider" priority="1" />
+      <Item value="lblCurrentWordLabel" priority="0" />
+      <Item value="throw" priority="0" />
+      <Item value="File" priority="1" />
+      <Item value="Resources" priority="1" />
+      <Item value="optFirst" priority="2" />
+      <Item value="optSecond" priority="2" />
+      <Item value="optThird" priority="1" />
+      <Item value="optFourth" priority="1" />
+      <Item value="List" priority="0" />
+      <Item value="List&lt;string&gt;" priority="0" />
+      <Item value="logRecords" priority="1" />
+      <Item value="mystr" priority="0" />
+      <Item value="Join" priority="0" />
+      <Item value="LogDisplay" priority="1" />
+      <Item value="logDisplay" priority="1" />
+      <Item value="unchecked" priority="0" />
+      <Item value="UnCheckAll" priority="0" />
+      <Item value="FillOptions" priority="0" />
+      <Item value="currentWord" priority="10" />
+      <Item value="DoSelection" priority="0" />
+      <Item value="currentSelectionText" priority="0" />
+      <Item value="pbStatus" priority="3" />
+      <Item value="ClearEverything" priority="0" />
+      <Item value="Control" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="ctrl" priority="6" />
+      <Item value="is" priority="1" />
+      <Item value="RadioButton" priority="2" />
+      <Item value="PictureBox" priority="2" />
+      <Item value="CheckResponse" priority="2" />
+      <Item value="e" priority="0" />
+      <Item value="sender" priority="0" />
+      <Item value="optOption1" priority="0" />
+      <Item value="optOption2" priority="0" />
+      <Item value="optOption3" priority="1" />
+      <Item value="Controls" priority="0" />
+      <Item value="controlName" priority="0" />
+      <Item value="groupBox1" priority="0" />
+      <Item value="wbDictionary" priority="0" />
+      <Item value="wbThesaurus" priority="0" />
+      <Item value="wbNews" priority="0" />
+      <Item value="UpdateInformationTabs" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Split" priority="1" />
+      <Item value="ToCharArray" priority="1" />
+      <Item value="Trim" priority="0" />
+      <Item value="Contains" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty" priority="0" />
+      <Item value="Format" priority="8" />
+      <Item value="CompareOrdinal" priority="0" />
+      <Item value="Join" priority="0" />
+      <Item value="Compare" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add" priority="0" />
+      <Item value="Keys" priority="1" />
+      <Item value="ElementAt" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@GreHelper.Properties.Settings">
+      <Item value="Default" priority="3" />
+      <Item value="Synchronized" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GreHelper.Properties.Settings">
+      <Item value="LogFilePath" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.FileAccess">
+      <Item value="ReadWrite" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GreHelper.WordProvider">
+      <Item value="LoadFromResource" priority="1" />
+      <Item value="LoadFromFile" priority="0" />
+      <Item value="GetRandomWordWithChoices" priority="0" />
+      <Item value="ReadWordList" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.FileMode">
+      <Item value="Open" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Debug">
+      <Item value="Assert" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Log.FileRecordSequence">
+      <Item value="Append" priority="1" />
+      <Item value="ReadLogRecords" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Log.SequenceNumber">
+      <Item value="Invalid" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Log.RecordAppendOptions">
+      <Item value="ForceFlush" priority="1" />
+      <Item value="None" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GreHelper.Logger">
+      <Item value="Write" priority="6" />
+      <Item value="ReadRecords" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="ReadToEnd" priority="0" />
+      <Item value="Close" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2+KeyCollection">
+      <Item value="ElementAt" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="4" />
+      <Item value="Value" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GreHelper.ChoiceRecord">
+      <Item value="Word" priority="4" />
+      <Item value="Definition" priority="2" />
+      <Item value="CorrectChoiceIndex" priority="2" />
+      <Item value="Options" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="UtcNow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@GreHelper.WordProvider">
+      <Item value="CreateFromResource" priority="0" />
+      <Item value="logger" priority="0" />
+      <Item value="MAXCHOICES" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@GreHelper.Properties.Resources">
+      <Item value="mywordlist" priority="1" />
+      <Item value="ResourceManager" priority="0" />
+      <Item value="incorrect" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="ReadAllText" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Resources.ResourceManager">
+      <Item value="GetString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.RadioButton">
+      <Item value="Text" priority="6" />
+      <Item value="toar" priority="0" />
+      <Item value="CheckAlign" priority="4" />
+      <Item value="CheckedChanged" priority="0" />
+      <Item value="Checked" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add" priority="0" />
+      <Item value="ToArray" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="0" />
+      <Item value="Lines" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GreHelper.LogDisplay">
+      <Item value="ShowDialog" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.PictureBox">
+      <Item value="Visible" priority="3" />
+      <Item value="ImageLocation" priority="0" />
+      <Item value="Image" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control">
+      <Item value="Name" priority="1" />
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control+ControlCollection">
+      <Item value="Find" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.GroupBox">
+      <Item value="Controls" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.WebBrowser">
+      <Item value="Navigate" priority="2" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/d:Properties/f:Resources.resx" caret="7221" fromTop="57" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/d:Properties/f:Settings.Designer.cs" caret="1427" fromTop="30" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/d:Properties/f:Resources.Designer.cs" caret="2242" fromTop="36" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:LogDisplay.cs" caret="408" fromTop="16" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:WordProvider.cs" caret="0" fromTop="0" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:Logger.cs" caret="0" fromTop="0" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:App.config" caret="682" fromTop="10" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/d:Resources/f:mywordlist.txt" caret="364711" fromTop="48" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:MainForm.cs" caret="2363" fromTop="23" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:MainForm.Designer.cs" caret="914" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:MainForm.cs" caret="1767" fromTop="35" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:WordProvider.cs" caret="588" fromTop="13" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:MainForm.cs" caret="568" fromTop="19" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:WordProvider.cs" caret="815" fromTop="9" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:WordProvider.cs" caret="1171" fromTop="18" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:LogDisplay.cs" caret="408" fromTop="16" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:LogDisplay.cs" caret="431" fromTop="16" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:WordProvider.cs" caret="2729" fromTop="32" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:WordProvider.cs" caret="1936" fromTop="15" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:WordProvider.cs" caret="3906" fromTop="15" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:MainForm.cs" caret="1525" fromTop="38" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:MainForm.cs" caret="1763" fromTop="40" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:MainForm.cs" caret="414" fromTop="16" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:MainForm.cs" caret="1513" fromTop="34" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:MainForm.cs" caret="3094" fromTop="44" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:MainForm.cs" caret="2110" fromTop="24" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:MainForm.cs" caret="1615" fromTop="32" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:MainForm.cs" caret="1194" fromTop="26" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:MainForm.Designer.cs" caret="20667" fromTop="23" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:MainForm.cs" caret="4366" fromTop="23" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:MainForm.cs" caret="3288" fromTop="14" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:MainForm.cs" caret="3483" fromTop="21" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:MainForm.cs" caret="4366" fromTop="29" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:MainForm.cs" caret="4341" fromTop="23" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:MainForm.cs" caret="885" fromTop="15" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:MainForm.cs" caret="4218" fromTop="31" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:MainForm.cs" caret="2717" fromTop="32" />
+      <File id="15C9627D-16F0-4BB4-BEEC-2935C353C602/f:MainForm.cs" caret="4366" fromTop="23" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>

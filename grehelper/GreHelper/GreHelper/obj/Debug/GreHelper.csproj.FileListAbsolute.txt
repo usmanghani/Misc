@@ -1,0 +1,10 @@
+c:\grehelper\GreHelper\GreHelper\bin\Debug\GreHelper.exe.config
+c:\grehelper\GreHelper\GreHelper\bin\Debug\GreHelper.exe
+c:\grehelper\GreHelper\GreHelper\bin\Debug\GreHelper.pdb
+c:\grehelper\GreHelper\GreHelper\obj\Debug\ResolveAssemblyReference.cache
+c:\grehelper\GreHelper\GreHelper\obj\Debug\GreHelper.frmMain.resources
+c:\grehelper\GreHelper\GreHelper\obj\Debug\GreHelper.Properties.Resources.resources
+c:\grehelper\GreHelper\GreHelper\obj\Debug\GreHelper.csproj.GenerateResource.Cache
+c:\grehelper\GreHelper\GreHelper\obj\Debug\GreHelper.exe
+c:\grehelper\GreHelper\GreHelper\obj\Debug\GreHelper.pdb
+c:\grehelper\GreHelper\GreHelper\obj\Debug\GreHelper.LogDisplay.resources
