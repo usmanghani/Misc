@@ -1,0 +1,7 @@
+obj\Debug\dbdumper.exe
+obj\Debug\dbdumper.pdb
+bin\Debug\dbdumper.exe
+bin\Debug\dbdumper.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\dbdumper.Form1.resources
+obj\Debug\dbdumper.csproj.GenerateResource.Cache

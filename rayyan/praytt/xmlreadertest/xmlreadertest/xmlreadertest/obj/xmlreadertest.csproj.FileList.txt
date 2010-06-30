@@ -1,0 +1,6 @@
+bin\Debug\xmlreadertest.exe
+bin\Debug\xmlreadertest.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\xmlreadertest.exe
+obj\Debug\xmlreadertest.pdb
+bin\Debug\locdata.xml

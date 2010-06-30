@@ -1,0 +1,12 @@
+TODO:
+(DONE)1. Notify the user if too many selections(locations) are made. Ask for confirmation.
+(MINOR)2. Allow the user to add and remove columns from the timings display ( requires modification of the 
+interface between TimePageControl and MainForm ).
+(MINOR)3. Decrease the speed of the progress bar displayed during calculations.
+(MINOR)4. Allow the user to cancel the calculations midway.
+(IMPO)5. 6. 7. 8. Improve libpraytt ( Biggest TODO ).
+(IMPO)8.1 Add Exception classes to pinpoint libpraytt errors.
+(CRAP)9. Do something else...
+(DIY)9.1 Hire someone to write unit tests for the library.
+(CRAP)10. Finally launch it with a non-zero version no.
+(IMPO)11. The application crashes randomly(:-O). Find out WHY? Also find out why do the crashes persist after the first crash (this aint a CRUSH :-D).

@@ -1,0 +1,8 @@
+1. Multiple locations can be selected.
+2. Lengthy operations now provide visual feedback.
+3. Tabs can be closed using middle-click.
+4. Failure of operation for a certain location does not affect the operation of other
+locations.
+5. Bug report submission form.
+6. Application deployed using clickonce.
+7. Application updates itself.

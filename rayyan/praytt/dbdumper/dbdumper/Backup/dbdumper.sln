@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dbdumper", "dbdumper.csproj", "{35EBAB78-14E8-4F68-BF16-9BA731B24D1E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{35EBAB78-14E8-4F68-BF16-9BA731B24D1E}.Debug.ActiveCfg = Debug|.NET
+		{35EBAB78-14E8-4F68-BF16-9BA731B24D1E}.Debug.Build.0 = Debug|.NET
+		{35EBAB78-14E8-4F68-BF16-9BA731B24D1E}.Release.ActiveCfg = Release|.NET
+		{35EBAB78-14E8-4F68-BF16-9BA731B24D1E}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

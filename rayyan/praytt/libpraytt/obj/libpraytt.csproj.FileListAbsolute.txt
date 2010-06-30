@@ -1,0 +1,5 @@
+I:\rayyan\praytt\libpraytt\bin\Debug\libpraytt.dll
+I:\rayyan\praytt\libpraytt\bin\Debug\libpraytt.pdb
+I:\rayyan\praytt\libpraytt\obj\Debug\ResolveAssemblyReference.cache
+I:\rayyan\praytt\libpraytt\obj\Debug\libpraytt.dll
+I:\rayyan\praytt\libpraytt\obj\Debug\libpraytt.pdb

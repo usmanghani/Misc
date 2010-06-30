@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="praytt">
+</Property><Property Name="Solution File" Value="C:\Users\ughani\Desktop\rayyan\praytt\praytt\praytt.sln">
+</Property><Property Name="Date" Value="Monday, January 12, 2009">
+</Property><Property Name="Time" Value="21:03 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="praytt.sln" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\praytt.sln">
+</Event><Event ErrorLevel="0" Project="praytt" Source="praytt.csproj" Description="Project file successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\praytt.csproj">
+</Event><Event ErrorLevel="0" Project="praytt" Source="praytt.csproj.user" Description="Project user file successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\praytt.csproj.user">
+</Event><Event ErrorLevel="0" Project="praytt" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="praytt" Source="BugReport.cs" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\BugReport.cs">
+</Event><Event ErrorLevel="0" Project="praytt" Source="BugReportDialog.cs" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\BugReportDialog.cs">
+</Event><Event ErrorLevel="0" Project="praytt" Source="DataAccessLayer.cs" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\DataAccessLayer.cs">
+</Event><Event ErrorLevel="0" Project="praytt" Source="MainForm.cs" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="praytt" Source="PrayerTimeData.cs" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\PrayerTimeData.cs">
+</Event><Event ErrorLevel="0" Project="praytt" Source="PresentationManager.cs" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\PresentationManager.cs">
+</Event><Event ErrorLevel="0" Project="praytt" Source="PrintManager.cs" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\PrintManager.cs">
+</Event><Event ErrorLevel="0" Project="praytt" Source="ProfileManager.cs" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\ProfileManager.cs">
+</Event><Event ErrorLevel="2" Project="praytt" Source="Properties\Resources.Designer.cs" Description="Failed to backup file as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="praytt" Source="SettingsManager.cs" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\SettingsManager.cs">
+</Event><Event ErrorLevel="0" Project="praytt" Source="TimePageControl.cs" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\TimePageControl.cs">
+</Event><Event ErrorLevel="0" Project="praytt" Source="UIManager.cs" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\UIManager.cs">
+</Event><Event ErrorLevel="0" Project="praytt" Source="UpdateProgressDialog.cs" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\UpdateProgressDialog.cs">
+</Event><Event ErrorLevel="0" Project="praytt" Source="UpdateProgressDialog.Designer.cs" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\UpdateProgressDialog.Designer.cs">
+</Event><Event ErrorLevel="0" Project="praytt" Source="WaitDialog.cs" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\WaitDialog.cs">
+</Event><Event ErrorLevel="0" Project="praytt" Source="ClassDiagram1.cd" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="praytt" Source="prayttsigner.snk" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\prayttsigner.snk">
+</Event><Event ErrorLevel="0" Project="praytt" Source="praytt_TemporaryKey.pfx" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\praytt_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="praytt" Source="App.ico" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="praytt" Source="close.ico" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\close.ico">
+</Event><Event ErrorLevel="0" Project="praytt" Source="locdata.xml" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\locdata.xml">
+</Event><Event ErrorLevel="0" Project="praytt" Source="print.ico" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\print.ico">
+</Event><Event ErrorLevel="0" Project="praytt" Source="TODO.txt" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\TODO.txt">
+</Event><Event ErrorLevel="0" Project="praytt" Source="WhatsNew.txt" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\WhatsNew.txt">
+</Event><Event ErrorLevel="0" Project="praytt" Source="BugReportDialog.resx" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\BugReportDialog.resx">
+</Event><Event ErrorLevel="0" Project="praytt" Source="MainForm.resx" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\MainForm.resx">
+</Event><Event ErrorLevel="2" Project="praytt" Source="Properties\Resources.resx" Description="Failed to backup file as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="praytt" Source="TimePageControl.resx" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\TimePageControl.resx">
+</Event><Event ErrorLevel="0" Project="praytt" Source="UpdateProgressDialog.resx" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\UpdateProgressDialog.resx">
+</Event><Event ErrorLevel="0" Project="praytt" Source="WaitDialog.resx" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\WaitDialog.resx">
+</Event><Event ErrorLevel="0" Project="praytt" Source="praytt.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="praytt" Source="praytt.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="libpraytt" Source="..\libpraytt\libpraytt.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="libpraytt" Source="..\libpraytt\libpraytt.csproj" Description="Project file successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\libpraytt\libpraytt.csproj">
+</Event><Event ErrorLevel="0" Project="libpraytt" Source="..\libpraytt\libpraytt.csproj.user" Description="Project user file successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\libpraytt\libpraytt.csproj.user">
+</Event><Event ErrorLevel="0" Project="libpraytt" Source="..\libpraytt\Exceptions.cs" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\libpraytt\Exceptions.cs">
+</Event><Event ErrorLevel="2" Project="libpraytt" Source="..\libpraytt\Properties\AssemblyInfo.cs" Description="Failed to backup file as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\libpraytt\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="libpraytt" Source="..\libpraytt\TimeCalculator.cs" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\libpraytt\TimeCalculator.cs">
+</Event><Event ErrorLevel="0" Project="libpraytt" Source="..\libpraytt\libprayttsigner.snk" Description="File successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\libpraytt\libprayttsigner.snk">
+</Event><Event ErrorLevel="0" Project="libpraytt" Source="..\libpraytt\libpraytt.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="libpraytt" Source="..\libpraytt\libpraytt.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="prayttsetup.vdproj" Source="..\prayttsetup\prayttsetup.vdproj" Description="Project file successfully backed up as C:\Users\ughani\Desktop\rayyan\praytt\praytt\Backup\prayttsetup.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="praytt.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="praytt.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="praytt" Source="praytt.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="libpraytt" Source="..\libpraytt\libpraytt.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

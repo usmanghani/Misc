@@ -1,0 +1,10 @@
+bin\Debug\prayttmobile.exe
+bin\Debug\prayttmobile.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\prayttmobile.Form1.resources
+obj\Debug\prayttmobile.Properties.Resources.resources
+obj\Debug\prayttmobile.csproj.GenerateResource.Cache
+obj\Debug\prayttmobile.exe
+obj\Debug\prayttmobile.pdb
+bin\Debug\libpraytt.dll
+bin\Debug\libpraytt.pdb
