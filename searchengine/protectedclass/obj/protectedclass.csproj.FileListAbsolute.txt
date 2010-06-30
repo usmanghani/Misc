@@ -1,0 +1,8 @@
+D:\testingthings\testdotlucene\protectedclass\bin\Debug\protectedclass.exe
+D:\testingthings\testdotlucene\protectedclass\bin\Debug\protectedclass.pdb
+D:\testingthings\testdotlucene\protectedclass\obj\Debug\ResolveAssemblyReference.cache
+D:\testingthings\testdotlucene\protectedclass\obj\Debug\protectedclass.Form1.resources
+D:\testingthings\testdotlucene\protectedclass\obj\Debug\protectedclass.Properties.Resources.resources
+D:\testingthings\testdotlucene\protectedclass\obj\Debug\protectedclass.csproj.GenerateResource.Cache
+D:\testingthings\testdotlucene\protectedclass\obj\Debug\protectedclass.exe
+D:\testingthings\testdotlucene\protectedclass\obj\Debug\protectedclass.pdb

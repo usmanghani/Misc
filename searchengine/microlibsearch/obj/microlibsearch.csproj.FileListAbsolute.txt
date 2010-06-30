@@ -1,0 +1,10 @@
+D:\testingthings\searchengine\microlibsearch\obj\Debug\ResolveAssemblyReference.cache
+D:\testingthings\searchengine\microlibsearch\bin\Debug\microlibsearch.dll
+D:\testingthings\searchengine\microlibsearch\bin\Debug\microlibsearch.pdb
+D:\testingthings\searchengine\microlibsearch\bin\Debug\Lucene.Net.dll
+D:\testingthings\searchengine\microlibsearch\bin\Debug\Lucene.Net.pdb
+D:\testingthings\searchengine\microlibsearch\obj\Debug\microlibsearch.dll
+D:\testingthings\searchengine\microlibsearch\obj\Debug\microlibsearch.pdb
+D:\testingthings\searchengine\microlibsearch\bin\Debug\Highlighter.Net.dll
+D:\testingthings\searchengine\microlibsearch\bin\Debug\Highlighter.Net.pdb
+D:\testingthings\searchengine\microlibsearch\bin\Debug\Highlighter.Net.xml

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scratch", "..\scratch\scratch.csproj", "{DCBE9909-F291-49AE-8771-472FD35443FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testmicrolibsearch", "testmicrolibsearch.csproj", "{6C74760C-B2B0-4313-AAE2-141479387091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "microlibsearch", "..\microlibsearch\microlibsearch.csproj", "{6B321AF7-0331-4D07-8DEB-B320224AE3D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdSearch", "..\AdSearch\AdSearch.csproj", "{8B81624B-C5F7-4B9D-8D09-9D6996E1798E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCBE9909-F291-49AE-8771-472FD35443FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCBE9909-F291-49AE-8771-472FD35443FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCBE9909-F291-49AE-8771-472FD35443FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCBE9909-F291-49AE-8771-472FD35443FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C74760C-B2B0-4313-AAE2-141479387091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C74760C-B2B0-4313-AAE2-141479387091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C74760C-B2B0-4313-AAE2-141479387091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C74760C-B2B0-4313-AAE2-141479387091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B321AF7-0331-4D07-8DEB-B320224AE3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B321AF7-0331-4D07-8DEB-B320224AE3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B321AF7-0331-4D07-8DEB-B320224AE3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B321AF7-0331-4D07-8DEB-B320224AE3D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B81624B-C5F7-4B9D-8D09-9D6996E1798E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B81624B-C5F7-4B9D-8D09-9D6996E1798E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B81624B-C5F7-4B9D-8D09-9D6996E1798E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B81624B-C5F7-4B9D-8D09-9D6996E1798E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

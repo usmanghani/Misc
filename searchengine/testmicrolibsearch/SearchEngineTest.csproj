@@ -1,0 +1,175 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DED87B04-E3E4-4419-9505-9704BB31541C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <AssemblyName>SearchEngineTest</AssemblyName>
+    <RootNamespace>SearchEngineTest</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>.\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>.\bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddBook.Designer.cs">
+      <DependentUpon>AddBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddEditBookControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AddEditBookControl.Designer.cs">
+      <DependentUpon>AddEditBookControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdvancedSearch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdvancedSearch.Designer.cs">
+      <DependentUpon>AdvancedSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Book.cs" />
+    <Compile Include="BookCollection.cs" />
+    <Compile Include="BookManager.cs" />
+    <Compile Include="FilesEditor.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs" />
+    <Compile Include="Properties\Settings.Designer.cs" />
+    <Compile Include="propgridobject.cs" />
+    <Compile Include="SearchResultControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SearchResultControl.Designer.cs">
+      <DependentUpon>SearchResultControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestBookManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestBookManager.Designer.cs">
+      <DependentUpon>TestBookManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="testpropgrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="testpropgrid.Designer.cs">
+      <DependentUpon>testpropgrid.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AddBook.resx">
+      <DependentUpon>AddBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddEditBookControl.resx">
+      <DependentUpon>AddEditBookControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdvancedSearch.resx">
+      <DependentUpon>AdvancedSearch.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchResultControl.resx">
+      <DependentUpon>SearchResultControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestBookManager.resx">
+      <DependentUpon>TestBookManager.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="testpropgrid.resx">
+      <DependentUpon>testpropgrid.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".svn\dir-prop-base" />
+    <None Include=".svn\entries" />
+    <None Include=".svn\format" />
+    <None Include=".svn\text-base\AddBook.cs.svn-base" />
+    <None Include=".svn\text-base\AddBook.Designer.cs.svn-base" />
+    <None Include=".svn\text-base\AddBook.resx.svn-base" />
+    <None Include=".svn\text-base\AddEditBookControl.cs.svn-base" />
+    <None Include=".svn\text-base\AddEditBookControl.Designer.cs.svn-base" />
+    <None Include=".svn\text-base\AddEditBookControl.resx.svn-base" />
+    <None Include=".svn\text-base\AdvancedSearch.cs.svn-base" />
+    <None Include=".svn\text-base\AdvancedSearch.Designer.cs.svn-base" />
+    <None Include=".svn\text-base\AdvancedSearch.resx.svn-base" />
+    <None Include=".svn\text-base\Book.cs.svn-base" />
+    <None Include=".svn\text-base\BookCollection.cs.svn-base" />
+    <None Include=".svn\text-base\BookManager.cs.svn-base" />
+    <None Include=".svn\text-base\FilesEditor.cs.svn-base" />
+    <None Include=".svn\text-base\Form1.cs.svn-base" />
+    <None Include=".svn\text-base\Form1.Designer.cs.svn-base" />
+    <None Include=".svn\text-base\Form1.resx.svn-base" />
+    <None Include=".svn\text-base\MainForm.cs.svn-base" />
+    <None Include=".svn\text-base\MainForm.Designer.cs.svn-base" />
+    <None Include=".svn\text-base\MainForm.resx.svn-base" />
+    <None Include=".svn\text-base\Program.cs.svn-base" />
+    <None Include=".svn\text-base\propgridobject.cs.svn-base" />
+    <None Include=".svn\text-base\SearchResultControl.cs.svn-base" />
+    <None Include=".svn\text-base\SearchResultControl.Designer.cs.svn-base" />
+    <None Include=".svn\text-base\SearchResultControl.resx.svn-base" />
+    <None Include=".svn\text-base\TestBookManager.cs.svn-base" />
+    <None Include=".svn\text-base\TestBookManager.Designer.cs.svn-base" />
+    <None Include=".svn\text-base\TestBookManager.resx.svn-base" />
+    <None Include=".svn\text-base\testmicrolibsearch.csproj.svn-base" />
+    <None Include=".svn\text-base\testpropgrid.cs.svn-base" />
+    <None Include=".svn\text-base\testpropgrid.Designer.cs.svn-base" />
+    <None Include=".svn\text-base\testpropgrid.resx.svn-base" />
+    <None Include="Properties\Settings.settings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include=".svn\prop-base\" />
+    <Folder Include=".svn\props\" />
+    <Folder Include=".svn\tmp\prop-base\" />
+    <Folder Include=".svn\tmp\props\" />
+    <Folder Include=".svn\tmp\text-base\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSHARP.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+</Project>

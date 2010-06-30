@@ -1,0 +1,9 @@
+D:\testingthings\testdotlucene\poidotnettest\bin\Debug\poidotnettest.exe
+D:\testingthings\testdotlucene\poidotnettest\bin\Debug\poidotnettest.pdb
+D:\testingthings\testdotlucene\poidotnettest\bin\Debug\Poi.Net.dll
+D:\testingthings\testdotlucene\poidotnettest\obj\Debug\ResolveAssemblyReference.cache
+D:\testingthings\testdotlucene\poidotnettest\obj\Debug\poidotnettest.Form1.resources
+D:\testingthings\testdotlucene\poidotnettest\obj\Debug\poidotnettest.Properties.Resources.resources
+D:\testingthings\testdotlucene\poidotnettest\obj\Debug\poidotnettest.csproj.GenerateResource.Cache
+D:\testingthings\testdotlucene\poidotnettest\obj\Debug\poidotnettest.exe
+D:\testingthings\testdotlucene\poidotnettest\obj\Debug\poidotnettest.pdb

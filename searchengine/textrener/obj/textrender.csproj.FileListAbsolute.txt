@@ -1,0 +1,16 @@
+D:\testingthings\testdotlucene\textrener\bin\Debug\textrener.exe
+D:\testingthings\testdotlucene\textrener\bin\Debug\textrener.pdb
+D:\testingthings\testdotlucene\textrener\obj\Debug\ResolveAssemblyReference.cache
+D:\testingthings\testdotlucene\textrener\obj\Debug\textrener.Properties.Resources.resources
+D:\testingthings\testdotlucene\textrener\obj\Debug\textrender.csproj.GenerateResource.Cache
+D:\testingthings\testdotlucene\textrener\obj\Debug\textrener.exe
+D:\testingthings\testdotlucene\textrener\obj\Debug\textrener.pdb
+D:\testingthings\testdotlucene\textrener\obj\Debug\textrener.Form1.resources
+D:\testingthings\searchengine\textrener\obj\Debug\ResolveAssemblyReference.cache
+D:\testingthings\searchengine\textrener\obj\Debug\textrender.csproj.GenerateResource.Cache
+D:\testingthings\searchengine\textrener\bin\Debug\textrender.exe
+D:\testingthings\searchengine\textrener\bin\Debug\textrender.pdb
+D:\testingthings\searchengine\textrener\obj\Debug\textrender.Form1.resources
+D:\testingthings\searchengine\textrener\obj\Debug\textrender.Properties.Resources.resources
+D:\testingthings\searchengine\textrener\obj\Debug\textrender.exe
+D:\testingthings\searchengine\textrener\obj\Debug\textrender.pdb

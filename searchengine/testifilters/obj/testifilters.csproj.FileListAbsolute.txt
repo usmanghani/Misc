@@ -1,0 +1,16 @@
+D:\testingthings\testdotlucene\testifilters\obj\Debug\ResolveAssemblyReference.cache
+D:\testingthings\testdotlucene\testifilters\obj\Debug\testifilters.Form1.resources
+D:\testingthings\testdotlucene\testifilters\obj\Debug\testifilters.Properties.Resources.resources
+D:\testingthings\testdotlucene\testifilters\obj\Debug\testifilters.csproj.GenerateResource.Cache
+D:\testingthings\testdotlucene\testifilters\bin\Debug\testifilters.exe
+D:\testingthings\testdotlucene\testifilters\bin\Debug\testifilters.pdb
+D:\testingthings\testdotlucene\testifilters\obj\Debug\testifilters.exe
+D:\testingthings\testdotlucene\testifilters\obj\Debug\testifilters.pdb
+D:\testingthings\searchengine\testifilters\bin\Debug\testifilters.exe
+D:\testingthings\searchengine\testifilters\bin\Debug\testifilters.pdb
+D:\testingthings\searchengine\testifilters\obj\Debug\ResolveAssemblyReference.cache
+D:\testingthings\searchengine\testifilters\obj\Debug\testifilters.Form1.resources
+D:\testingthings\searchengine\testifilters\obj\Debug\testifilters.Properties.Resources.resources
+D:\testingthings\searchengine\testifilters\obj\Debug\testifilters.csproj.GenerateResource.Cache
+D:\testingthings\searchengine\testifilters\obj\Debug\testifilters.exe
+D:\testingthings\searchengine\testifilters\obj\Debug\testifilters.pdb

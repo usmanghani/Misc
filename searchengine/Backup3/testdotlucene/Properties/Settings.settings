@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DotFermion.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="txt" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DocParsers.TextDocumentParser</Value>
+    </Setting>
+    <Setting Name="pdf" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DocParsers.PdfDocumentParser</Value>
+    </Setting>
+    <Setting Name="html" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DocParsers.HtmlDocumentParser</Value>
+    </Setting>
+    <Setting Name="rtf" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DocParsers.RtfDocumentParser</Value>
+    </Setting>
+    <Setting Name="doc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DocParsers.WordDocumentParser</Value>
+    </Setting>
+    <Setting Name="xls" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DocParsers.ExcelDocumentParser</Value>
+    </Setting>
+    <Setting Name="xml" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DocParsers.XmlDocumentParser</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

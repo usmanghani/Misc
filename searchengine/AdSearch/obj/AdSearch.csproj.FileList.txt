@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AdSearch.Properties.Resources.resources
+obj\Debug\AdSearch.csproj.GenerateResource.Cache
+bin\Debug\AdSearch.exe
+bin\Debug\AdSearch.pdb
+bin\Debug\Highlighter.Net.dll
+bin\Debug\Lucene.Net.dll
+bin\Debug\microlibsearch.dll
+bin\Debug\microlibsearch.pdb
+bin\Debug\Lucene.Net.pdb
+bin\Debug\Highlighter.Net.pdb
+bin\Debug\Highlighter.Net.xml
+obj\Debug\AdSearch.exe
+obj\Debug\AdSearch.pdb
+obj\Debug\AdSearch.MainForm.resources
+bin\Debug\PropertyDescriptors.xml

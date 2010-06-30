@@ -1,0 +1,11 @@
+D:\testingthings\searchengine\testmicrolibsearch\obj\Debug\ResolveAssemblyReference.cache
+D:\testingthings\searchengine\testmicrolibsearch\obj\Debug\testmicrolibsearch.AddBook.resources
+D:\testingthings\searchengine\testmicrolibsearch\obj\Debug\testmicrolibsearch.AddEditBookControl.resources
+D:\testingthings\searchengine\testmicrolibsearch\obj\Debug\testmicrolibsearch.AdvancedSearch.resources
+D:\testingthings\searchengine\testmicrolibsearch\obj\Debug\testmicrolibsearch.Form1.resources
+D:\testingthings\searchengine\testmicrolibsearch\obj\Debug\testmicrolibsearch.MainForm.resources
+D:\testingthings\searchengine\testmicrolibsearch\obj\Debug\SearchEngineTest.Properties.Resources.resources
+D:\testingthings\searchengine\testmicrolibsearch\obj\Debug\testmicrolibsearch.SearchResultControl.resources
+D:\testingthings\searchengine\testmicrolibsearch\obj\Debug\testmicrolibsearch.TestBookManager.resources
+D:\testingthings\searchengine\testmicrolibsearch\obj\Debug\testmicrolibsearch.testpropgrid.resources
+D:\testingthings\searchengine\testmicrolibsearch\obj\Debug\SearchEngineTest.csproj.GenerateResource.Cache

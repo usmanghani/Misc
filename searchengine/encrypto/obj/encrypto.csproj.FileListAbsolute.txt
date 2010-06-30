@@ -1,0 +1,8 @@
+D:\testingthings\testdotlucene\encrypto\obj\Debug\ResolveAssemblyReference.cache
+D:\testingthings\testdotlucene\encrypto\obj\Debug\encrypto.Form1.resources
+D:\testingthings\testdotlucene\encrypto\obj\Debug\encrypto.Properties.Resources.resources
+D:\testingthings\testdotlucene\encrypto\obj\Debug\encrypto.csproj.GenerateResource.Cache
+D:\testingthings\testdotlucene\encrypto\bin\Debug\encrypto.exe
+D:\testingthings\testdotlucene\encrypto\bin\Debug\encrypto.pdb
+D:\testingthings\testdotlucene\encrypto\obj\Debug\encrypto.exe
+D:\testingthings\testdotlucene\encrypto\obj\Debug\encrypto.pdb

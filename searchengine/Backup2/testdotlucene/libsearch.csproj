@@ -1,0 +1,145 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4F219B7D-E59D-4A15-AB88-EBE44F6F730B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DotFermion</RootNamespace>
+    <AssemblyName>libsearch</AssemblyName>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DemoLib, Version=1.9.1.1, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\downloads\Lucene.Net-1.9.1-004-27Nov06.src\src\Demo\DemoLib\bin\Debug\DemoLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Highlighter.Net, Version=1.4.3.3, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\downloads\Highlighter.Net-1.4.0.RC1-001\bin\Debug\Highlighter.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlAgilityPack, Version=1.3.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Documents and Settings\usmanghani\Desktop\htmlagilitypack\bin\Debug\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="Lucene.Net, Version=1.9.1.4, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\downloads\Lucene.Net-1.9.1-004-27Nov06.src\src\Lucene.Net\bin\Debug\Lucene.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="Poi.Net, Version=0.0.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Documents and Settings\usmanghani\Desktop\Poi.Net_0.1\Poi.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Analyzers\DiacriticAnalyzer.cs" />
+    <Compile Include="Configuration.cs" />
+    <Compile Include="DocParsers\XFilter.cs" />
+    <Compile Include="IndexHandlers\DBIndexHandler.cs" />
+    <Compile Include="DocSources\DocumentSource.cs" />
+    <Compile Include="DocParsers\DocumentParser.cs" />
+    <Compile Include="DocParsers\ExcelDocumentParser.cs" />
+    <Compile Include="Exceptions\DocumentHandlerException.cs" />
+    <Compile Include="DocParsers\ExtensionFileHandler.cs" />
+    <Compile Include="DocParsers\FileHandler.cs" />
+    <Compile Include="DocSources\FileSystemDocumentSource.cs" />
+    <Compile Include="IndexHandlers\FileSystemIndexHandler.cs" />
+    <Compile Include="DocParsers\HtmlDocumentParser.cs" />
+    <Compile Include="Indexer.cs" />
+    <Compile Include="IndexHandlers\IndexHandler.cs" />
+    <Compile Include="IndexingEngine.cs" />
+    <Compile Include="DocParsers\PdfDocumentParser.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Config.ini" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="DocParsers\RtfDocumentParser.cs" />
+    <Compile Include="SearchEngine.cs" />
+    <Compile Include="Searcher.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="DocParsers\TextDocumentParser.cs" />
+    <Compile Include="DocParsers\WordDocumentParser.cs" />
+    <Compile Include="DocParsers\XmlDocumentParser.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Logging\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

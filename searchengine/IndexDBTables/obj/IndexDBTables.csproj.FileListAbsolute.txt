@@ -1,0 +1,15 @@
+D:\testingthings\searchengine\IndexDBTables\bin\Debug\IndexDBTables.exe.config
+D:\testingthings\searchengine\IndexDBTables\bin\Debug\Database.mdb
+D:\testingthings\searchengine\IndexDBTables\bin\Debug\IndexDBTables.exe
+D:\testingthings\searchengine\IndexDBTables\bin\Debug\IndexDBTables.pdb
+D:\testingthings\searchengine\IndexDBTables\obj\Debug\ResolveAssemblyReference.cache
+D:\testingthings\searchengine\IndexDBTables\obj\Debug\IndexDBTables.Form1.resources
+D:\testingthings\searchengine\IndexDBTables\obj\Debug\IndexDBTables.Properties.Resources.resources
+D:\testingthings\searchengine\IndexDBTables\obj\Debug\IndexDBTables.csproj.GenerateResource.Cache
+D:\testingthings\searchengine\IndexDBTables\obj\Debug\IndexDBTables.exe
+D:\testingthings\searchengine\IndexDBTables\obj\Debug\IndexDBTables.pdb
+D:\testingthings\searchengine\IndexDBTables\bin\Debug\Highlighter.Net.dll
+D:\testingthings\searchengine\IndexDBTables\bin\Debug\Lucene.Net.dll
+D:\testingthings\searchengine\IndexDBTables\bin\Debug\Lucene.Net.pdb
+D:\testingthings\searchengine\IndexDBTables\bin\Debug\Highlighter.Net.pdb
+D:\testingthings\searchengine\IndexDBTables\bin\Debug\Highlighter.Net.xml

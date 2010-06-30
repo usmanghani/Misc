@@ -1,0 +1,11 @@
+D:\testingthings\testdotlucene\officeauto\bin\Debug\officeauto.exe
+D:\testingthings\testdotlucene\officeauto\bin\Debug\officeauto.pdb
+D:\testingthings\testdotlucene\officeauto\bin\Debug\officeauto.xml
+D:\testingthings\testdotlucene\officeauto\obj\Debug\ResolveAssemblyReference.cache
+D:\testingthings\testdotlucene\officeauto\obj\Debug\officeauto.vbproj.ResolveComReference.cache
+D:\testingthings\testdotlucene\officeauto\obj\Debug\officeauto.Form1.resources
+D:\testingthings\testdotlucene\officeauto\obj\Debug\officeauto.Resources.resources
+D:\testingthings\testdotlucene\officeauto\obj\Debug\officeauto.vbproj.GenerateResource.Cache
+D:\testingthings\testdotlucene\officeauto\obj\Debug\officeauto.exe
+D:\testingthings\testdotlucene\officeauto\obj\Debug\officeauto.xml
+D:\testingthings\testdotlucene\officeauto\obj\Debug\officeauto.pdb

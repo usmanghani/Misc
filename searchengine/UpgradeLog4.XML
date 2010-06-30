@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="searchengine">
+</Property><Property Name="Solution File" Value="D:\testingthings\searchengine\searchengine.sln">
+</Property><Property Name="User Options File" Value="D:\testingthings\searchengine\searchengine.suo">
+</Property><Property Name="Date" Value="Friday, August 03, 2007">
+</Property><Property Name="Time" Value="19:45 PM">
+</Property><Property Name="Log Number" Value="4">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="searchengine.sln" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\searchengine.sln">
+</Event><Event ErrorLevel="0" Project="" Source="searchengine.suo" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\searchengine.suo">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\libsearch.csproj" Description="Project file successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\libsearch.csproj">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\Analyzers\DiacriticAnalyzer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\Analyzers\DiacriticAnalyzer.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\Configuration.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\Configuration.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\DocParsers\IFilter.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\DocParsers\IFilter.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\DocParsers\XFilter.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\DocParsers\XFilter.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\IndexStores\DBIndexStore.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\IndexStores\DBIndexStore.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\DocSources\DocumentSource.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\DocSources\DocumentSource.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\DocParsers\DocumentParser.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\DocParsers\DocumentParser.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\DocParsers\ExcelDocumentParser.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\DocParsers\ExcelDocumentParser.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\Exceptions\DocumentHandlerException.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\Exceptions\DocumentHandlerException.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\DocParsers\ExtensionFileHandler.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\DocParsers\ExtensionFileHandler.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\DocParsers\FileHandler.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\DocParsers\FileHandler.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\DocSources\FileSystemDocumentSource.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\DocSources\FileSystemDocumentSource.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\IndexStores\FileSystemIndexStore.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\IndexStores\FileSystemIndexStore.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\DocParsers\HtmlDocumentParser.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\DocParsers\HtmlDocumentParser.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\Indexer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\Indexer.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\IndexStores\IndexStore.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\IndexStores\IndexStore.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\IndexingEngine.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\IndexingEngine.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\DocParsers\PdfDocumentParser.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\DocParsers\PdfDocumentParser.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\DocParsers\RtfDocumentParser.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\DocParsers\RtfDocumentParser.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\SearchEngine.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\SearchEngine.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\Searcher.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\Searcher.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\Settings.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\Settings.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\DocParsers\TextDocumentParser.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\DocParsers\TextDocumentParser.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\DocParsers\WordDocumentParser.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\DocParsers\WordDocumentParser.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\DocParsers\XmlDocumentParser.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\DocParsers\XmlDocumentParser.cs">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\app.config" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\app.config">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\Config.ini" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\Config.ini">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\Properties\Settings.settings" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\Properties\Resources.resx" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testdotlucene\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="libsearch" Source="testdotlucene\libsearch.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="libsearch" Source="testdotlucene\libsearch.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="scratch" Source="scratch\scratch.csproj" Description="Project file successfully backed up as D:\testingthings\searchengine\Backup3\scratch\scratch.csproj">
+</Event><Event ErrorLevel="0" Project="scratch" Source="scratch\scratch.csproj.user" Description="Project user file successfully backed up as D:\testingthings\searchengine\Backup3\scratch\scratch.csproj.user">
+</Event><Event ErrorLevel="0" Project="scratch" Source="scratch\DiacriticAnalyzer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\scratch\DiacriticAnalyzer.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="scratch\Form1.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\scratch\Form1.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="scratch\Form1.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\scratch\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="scratch\IFilter.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\scratch\IFilter.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="scratch\ResultHighlighter.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\scratch\ResultHighlighter.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="scratch\MainForm.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\scratch\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="scratch\MainForm.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\scratch\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="scratch\Program.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\scratch\Program.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="scratch\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\scratch\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="scratch\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\scratch\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="scratch\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\scratch\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="scratch\SearchResult.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\scratch\SearchResult.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="scratch\SearchResult.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\scratch\SearchResult.Designer.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="scratch\Test.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\scratch\Test.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="scratch\Test.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\scratch\Test.Designer.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="scratch\app.config" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\scratch\app.config">
+</Event><Event ErrorLevel="0" Project="scratch" Source="scratch\Properties\Settings.settings" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\scratch\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="scratch" Source="scratch\scratch_TemporaryKey.pfx" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\scratch\scratch_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="scratch" Source="scratch\Form1.resx" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\scratch\Form1.resx">
+</Event><Event ErrorLevel="0" Project="scratch" Source="scratch\MainForm.resx" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\scratch\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="scratch" Source="scratch\Properties\Resources.resx" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\scratch\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="scratch" Source="scratch\SearchResult.resx" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\scratch\SearchResult.resx">
+</Event><Event ErrorLevel="0" Project="scratch" Source="scratch\Test.resx" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\scratch\Test.resx">
+</Event><Event ErrorLevel="0" Project="scratch" Source="scratch\scratch.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="scratch" Source="scratch\scratch.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="microlibsearch" Source="microlibsearch\microlibsearch.csproj" Description="Project file successfully backed up as D:\testingthings\searchengine\Backup3\microlibsearch\microlibsearch.csproj">
+</Event><Event ErrorLevel="0" Project="microlibsearch" Source="microlibsearch\DiacriticAnalyzer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\microlibsearch\DiacriticAnalyzer.cs">
+</Event><Event ErrorLevel="0" Project="microlibsearch" Source="microlibsearch\IFilter.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\microlibsearch\IFilter.cs">
+</Event><Event ErrorLevel="0" Project="microlibsearch" Source="microlibsearch\Indexer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\microlibsearch\Indexer.cs">
+</Event><Event ErrorLevel="0" Project="microlibsearch" Source="microlibsearch\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\microlibsearch\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="microlibsearch" Source="microlibsearch\Searcher.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\microlibsearch\Searcher.cs">
+</Event><Event ErrorLevel="0" Project="microlibsearch" Source="microlibsearch\SearchResult.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\microlibsearch\SearchResult.cs">
+</Event><Event ErrorLevel="0" Project="microlibsearch" Source="microlibsearch\Utils.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\microlibsearch\Utils.cs">
+</Event><Event ErrorLevel="0" Project="microlibsearch" Source="microlibsearch\microlibsearch.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="microlibsearch" Source="microlibsearch\microlibsearch.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\testmicrolibsearch.csproj" Description="Project file successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\testmicrolibsearch.csproj">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\AddBook.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\AddBook.cs">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\AddBook.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\AddBook.Designer.cs">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\AddEditBookControl.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\AddEditBookControl.cs">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\AddEditBookControl.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\AddEditBookControl.Designer.cs">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\AdvancedSearch.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\AdvancedSearch.cs">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\AdvancedSearch.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\AdvancedSearch.Designer.cs">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\Book.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\Book.cs">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\BookCollection.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\BookCollection.cs">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\BookManager.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\BookManager.cs">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\FilesEditor.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\FilesEditor.cs">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\Form1.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\Form1.cs">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\Form1.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\MainForm.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\MainForm.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\Program.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\Program.cs">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\propgridobject.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\propgridobject.cs">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\SearchResultControl.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\SearchResultControl.cs">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\SearchResultControl.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\SearchResultControl.Designer.cs">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\TestBookManager.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\TestBookManager.cs">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\TestBookManager.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\TestBookManager.Designer.cs">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\testpropgrid.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\testpropgrid.cs">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\testpropgrid.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\testpropgrid.Designer.cs">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\Properties\Settings.settings" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\AddBook.resx" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\AddBook.resx">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\AddEditBookControl.resx" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\AddEditBookControl.resx">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\AdvancedSearch.resx" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\AdvancedSearch.resx">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\Form1.resx" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\Form1.resx">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\MainForm.resx" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\Properties\Resources.resx" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\SearchResultControl.resx" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\SearchResultControl.resx">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\TestBookManager.resx" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\TestBookManager.resx">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\testpropgrid.resx" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testmicrolibsearch\testpropgrid.resx">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\testmicrolibsearch.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="testmicrolibsearch" Source="testmicrolibsearch\testmicrolibsearch.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\IndexDBTables.csproj" Description="Project file successfully backed up as D:\testingthings\searchengine\Backup3\IndexDBTables\IndexDBTables.csproj">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\DatabaseDataSet.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\IndexDBTables\DatabaseDataSet.Designer.cs">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\DiacriticAnalyzer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\IndexDBTables\DiacriticAnalyzer.cs">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\Form1.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\IndexDBTables\Form1.cs">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\Form1.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\IndexDBTables\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\Program.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\IndexDBTables\Program.cs">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\IndexDBTables\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\IndexDBTables\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\IndexDBTables\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\ResultHighlighter.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\IndexDBTables\ResultHighlighter.cs">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\app.config" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\IndexDBTables\app.config">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\DatabaseDataSet.xsc" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\IndexDBTables\DatabaseDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\DatabaseDataSet.xsd" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\IndexDBTables\DatabaseDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\DatabaseDataSet.xss" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\IndexDBTables\DatabaseDataSet.xss">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\Properties\Settings.settings" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\IndexDBTables\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\Database.mdb" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\IndexDBTables\Database.mdb">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\Form1.resx" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\IndexDBTables\Form1.resx">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\Properties\Resources.resx" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\IndexDBTables\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\IndexDBTables.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="IndexDBTables" Source="IndexDBTables\IndexDBTables.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="" Source="..\quransearch\" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="tests" Source="tests\tests.csproj" Description="Project file successfully backed up as D:\testingthings\searchengine\Backup3\tests\tests.csproj">
+</Event><Event ErrorLevel="0" Project="tests" Source="tests\Book.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\tests\Book.cs">
+</Event><Event ErrorLevel="0" Project="tests" Source="tests\BookCollection.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\tests\BookCollection.cs">
+</Event><Event ErrorLevel="0" Project="tests" Source="tests\Form1.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\tests\Form1.cs">
+</Event><Event ErrorLevel="0" Project="tests" Source="tests\Form1.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\tests\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="tests" Source="tests\Program.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\tests\Program.cs">
+</Event><Event ErrorLevel="0" Project="tests" Source="tests\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\tests\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="tests" Source="tests\Form1.resx" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\tests\Form1.resx">
+</Event><Event ErrorLevel="0" Project="tests" Source="tests\tests.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="tests" Source="tests\tests.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="testkanzul" Source="testkanzul\testkanzul.csproj" Description="Project file successfully backed up as D:\testingthings\searchengine\Backup3\testkanzul\testkanzul.csproj">
+</Event><Event ErrorLevel="0" Project="testkanzul" Source="testkanzul\Form1.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testkanzul\Form1.cs">
+</Event><Event ErrorLevel="0" Project="testkanzul" Source="testkanzul\Form1.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testkanzul\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="testkanzul" Source="testkanzul\Program.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testkanzul\Program.cs">
+</Event><Event ErrorLevel="0" Project="testkanzul" Source="testkanzul\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testkanzul\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="testkanzul" Source="testkanzul\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testkanzul\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="testkanzul" Source="testkanzul\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testkanzul\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="testkanzul" Source="testkanzul\Properties\Settings.settings" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testkanzul\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="testkanzul" Source="testkanzul\Form1.resx" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testkanzul\Form1.resx">
+</Event><Event ErrorLevel="0" Project="testkanzul" Source="testkanzul\Properties\Resources.resx" Description="File successfully backed up as D:\testingthings\searchengine\Backup3\testkanzul\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="testkanzul" Source="testkanzul\testkanzul.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="testkanzul" Source="testkanzul\testkanzul.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="searchengine.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="searchengine.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="microlibsearch" Source="microlibsearch\microlibsearch.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="testmicrolibsearch" Source="testmicrolibsearch\testmicrolibsearch.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

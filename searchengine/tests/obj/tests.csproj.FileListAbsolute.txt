@@ -1,0 +1,7 @@
+D:\testingthings\searchengine\tests\bin\Debug\tests.exe
+D:\testingthings\searchengine\tests\bin\Debug\tests.pdb
+D:\testingthings\searchengine\tests\obj\Debug\ResolveAssemblyReference.cache
+D:\testingthings\searchengine\tests\obj\Debug\tests.exe
+D:\testingthings\searchengine\tests\obj\Debug\tests.pdb
+D:\testingthings\searchengine\tests\obj\Debug\tests.Form1.resources
+D:\testingthings\searchengine\tests\obj\Debug\tests.csproj.GenerateResource.Cache

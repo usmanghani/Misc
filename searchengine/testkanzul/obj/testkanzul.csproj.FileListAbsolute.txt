@@ -1,0 +1,15 @@
+D:\testingthings\searchengine\testkanzul\bin\Debug\testkanzul.exe
+D:\testingthings\searchengine\testkanzul\bin\Debug\testkanzul.pdb
+D:\testingthings\searchengine\testkanzul\bin\Debug\microlibsearch.dll
+D:\testingthings\searchengine\testkanzul\bin\Debug\Highlighter.Net.dll
+D:\testingthings\searchengine\testkanzul\bin\Debug\Lucene.Net.dll
+D:\testingthings\searchengine\testkanzul\bin\Debug\Highlighter.Net.pdb
+D:\testingthings\searchengine\testkanzul\bin\Debug\Highlighter.Net.xml
+D:\testingthings\searchengine\testkanzul\bin\Debug\microlibsearch.pdb
+D:\testingthings\searchengine\testkanzul\bin\Debug\Lucene.Net.pdb
+D:\testingthings\searchengine\testkanzul\obj\Debug\ResolveAssemblyReference.cache
+D:\testingthings\searchengine\testkanzul\obj\Debug\testkanzul.Form1.resources
+D:\testingthings\searchengine\testkanzul\obj\Debug\testkanzul.Properties.Resources.resources
+D:\testingthings\searchengine\testkanzul\obj\Debug\testkanzul.csproj.GenerateResource.Cache
+D:\testingthings\searchengine\testkanzul\obj\Debug\testkanzul.exe
+D:\testingthings\searchengine\testkanzul\obj\Debug\testkanzul.pdb

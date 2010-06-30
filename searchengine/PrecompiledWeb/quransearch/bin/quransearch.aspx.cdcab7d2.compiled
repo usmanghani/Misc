@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/quransearch/QuranSearch.aspx" hash="fffffff8d0da0e11" filehash="2e74fde33aabb4c4" flags="110000" assembly="App_Web_3trydy9z" type="ASP.quransearch_aspx">
+    <filedeps>
+        <filedep name="/quransearch/QuranSearch.aspx" />
+        <filedep name="/quransearch/QuranSearch.aspx.cs" />
+    </filedeps>
+</preserve>

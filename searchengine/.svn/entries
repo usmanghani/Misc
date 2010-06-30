@@ -1,0 +1,46 @@
+8
+
+dir
+2
+file:///D:/Repositories/searchengine/trunk
+file:///D:/Repositories/searchengine
+
+
+
+2007-07-20T23:37:22.656250Z
+2
+usmanghani
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a9723159-47dc-1649-9200-6368381834df
+
+microlibsearch
+dir
+
+testmicrolibsearch
+dir
+
+searchengine.sln
+file
+
+
+
+
+2007-07-20T23:37:08.015625Z
+96df91e13eeef9fd57ef8f919b2d7844
+2007-07-20T23:37:22.656250Z
+2
+usmanghani
+

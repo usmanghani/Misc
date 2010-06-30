@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="searchengine">
+</Property><Property Name="Solution File" Value="D:\testingthings\searchengine\searchengine.sln">
+</Property><Property Name="Date" Value="Saturday, August 04, 2007">
+</Property><Property Name="Time" Value="9:14:32 AM">
+</Property><Property Name="Log Number" Value="5">
+</Property></Properties><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\IndexDBTables.csproj" Description="Project file successfully backed up as D:\testingthings\searchengine\Backup4\IndexDBTables.csproj">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\DatabaseDataSet.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup4\DatabaseDataSet.Designer.cs">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\DiacriticAnalyzer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup4\DiacriticAnalyzer.cs">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\Form1.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup4\Form1.cs">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\Form1.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup4\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\Program.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup4\Program.cs">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup4\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup4\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup4\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\ResultHighlighter.cs" Description="File successfully backed up as D:\testingthings\searchengine\Backup4\ResultHighlighter.cs">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\app.config" Description="File successfully backed up as D:\testingthings\searchengine\Backup4\app.config">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\DatabaseDataSet.xsc" Description="File successfully backed up as D:\testingthings\searchengine\Backup4\DatabaseDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\DatabaseDataSet.xsd" Description="File successfully backed up as D:\testingthings\searchengine\Backup4\DatabaseDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\DatabaseDataSet.xss" Description="File successfully backed up as D:\testingthings\searchengine\Backup4\DatabaseDataSet.xss">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\Properties\Settings.settings" Description="File successfully backed up as D:\testingthings\searchengine\Backup4\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\Database.mdb" Description="File successfully backed up as D:\testingthings\searchengine\Backup4\Database.mdb">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\Form1.resx" Description="File successfully backed up as D:\testingthings\searchengine\Backup4\Form1.resx">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\Properties\Resources.resx" Description="File successfully backed up as D:\testingthings\searchengine\Backup4\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\IndexDBTables.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="IndexDBTables" Source="IndexDBTables\IndexDBTables.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="IndexDBTables" Source="IndexDBTables\IndexDBTables.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

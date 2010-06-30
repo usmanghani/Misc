@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SearchEngineTest">
+</Property><Property Name="Solution File" Value="D:\testingthings\searchengine\testmicrolibsearch\SearchEngineTest.sln">
+</Property><Property Name="Date" Value="Tuesday, August 07, 2007">
+</Property><Property Name="Time" Value="13:14:43 PM">
+</Property></Properties><Event ErrorLevel="0" Project="scratch" Source="..\scratch\scratch.csproj" Description="Project file successfully backed up as D:\testingthings\searchengine\testmicrolibsearch\Backup\scratch.csproj">
+</Event><Event ErrorLevel="0" Project="scratch" Source="..\scratch\scratch.csproj.user" Description="Project user file successfully backed up as D:\testingthings\searchengine\testmicrolibsearch\Backup\scratch.csproj.user">
+</Event><Event ErrorLevel="0" Project="scratch" Source="..\scratch\DiacriticAnalyzer.cs" Description="File successfully backed up as D:\testingthings\searchengine\testmicrolibsearch\Backup\DiacriticAnalyzer.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="..\scratch\Form1.cs" Description="File successfully backed up as D:\testingthings\searchengine\testmicrolibsearch\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="..\scratch\Form1.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\testmicrolibsearch\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="..\scratch\IFilter.cs" Description="File successfully backed up as D:\testingthings\searchengine\testmicrolibsearch\Backup\IFilter.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="..\scratch\ResultHighlighter.cs" Description="File successfully backed up as D:\testingthings\searchengine\testmicrolibsearch\Backup\ResultHighlighter.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="..\scratch\MainForm.cs" Description="File successfully backed up as D:\testingthings\searchengine\testmicrolibsearch\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="..\scratch\MainForm.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\testmicrolibsearch\Backup\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="..\scratch\Program.cs" Description="File successfully backed up as D:\testingthings\searchengine\testmicrolibsearch\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="..\scratch\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\testingthings\searchengine\testmicrolibsearch\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="..\scratch\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\testmicrolibsearch\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="..\scratch\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\testmicrolibsearch\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="..\scratch\SearchResult.cs" Description="File successfully backed up as D:\testingthings\searchengine\testmicrolibsearch\Backup\SearchResult.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="..\scratch\SearchResult.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\testmicrolibsearch\Backup\SearchResult.Designer.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="..\scratch\Test.cs" Description="File successfully backed up as D:\testingthings\searchengine\testmicrolibsearch\Backup\Test.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="..\scratch\Test.Designer.cs" Description="File successfully backed up as D:\testingthings\searchengine\testmicrolibsearch\Backup\Test.Designer.cs">
+</Event><Event ErrorLevel="0" Project="scratch" Source="..\scratch\app.config" Description="File successfully backed up as D:\testingthings\searchengine\testmicrolibsearch\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="scratch" Source="..\scratch\Properties\Settings.settings" Description="File successfully backed up as D:\testingthings\searchengine\testmicrolibsearch\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="scratch" Source="..\scratch\scratch_TemporaryKey.pfx" Description="File successfully backed up as D:\testingthings\searchengine\testmicrolibsearch\Backup\scratch_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="scratch" Source="..\scratch\Form1.resx" Description="File successfully backed up as D:\testingthings\searchengine\testmicrolibsearch\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="scratch" Source="..\scratch\MainForm.resx" Description="File successfully backed up as D:\testingthings\searchengine\testmicrolibsearch\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="scratch" Source="..\scratch\Properties\Resources.resx" Description="File successfully backed up as D:\testingthings\searchengine\testmicrolibsearch\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="scratch" Source="..\scratch\SearchResult.resx" Description="File successfully backed up as D:\testingthings\searchengine\testmicrolibsearch\Backup\SearchResult.resx">
+</Event><Event ErrorLevel="0" Project="scratch" Source="..\scratch\Test.resx" Description="File successfully backed up as D:\testingthings\searchengine\testmicrolibsearch\Backup\Test.resx">
+</Event><Event ErrorLevel="0" Project="scratch" Source="..\scratch\scratch.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="scratch" Source="..\scratch\scratch.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="scratch" Source="..\scratch\scratch.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

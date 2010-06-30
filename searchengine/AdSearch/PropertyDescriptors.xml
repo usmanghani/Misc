@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Properties>
+  <Property>
+    <Name>
+      Date
+    </Name>
+    <Type>
+      Date
+    </Type>
+  </Property>
+  <Property>
+    <Name>
+      Expires
+    </Name>
+    <Type>
+      Date
+    </Type>
+  </Property>
+  <Property>
+    <Name>
+      Price
+    </Name>
+    <Type>
+      Number
+    </Type>
+  </Property>
+</Properties>

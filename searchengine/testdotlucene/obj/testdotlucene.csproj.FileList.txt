@@ -1,0 +1,14 @@
+bin\Debug\testdotlucene.exe
+bin\Debug\testdotlucene.pdb
+bin\Debug\Lucene.Net.dll
+bin\Debug\Lucene.Net.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\testdotlucene.Properties.Resources.resources
+obj\Debug\testdotlucene.csproj.GenerateResource.Cache
+obj\Debug\testdotlucene.exe
+obj\Debug\testdotlucene.pdb
+obj\Debug\testdotlucene.MainForm.resources
+obj\Debug\testdotlucene.SearchResult.resources
+bin\Debug\Highlighter.Net.dll
+bin\Debug\Highlighter.Net.pdb
+bin\Debug\Highlighter.Net.xml

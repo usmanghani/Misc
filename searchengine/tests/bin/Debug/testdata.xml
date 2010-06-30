@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="template.xsl"?>
+
+<SearchResults>
+<Title>Search Results</Title>
+<HilitedContents>contents.html</HilitedContents>
+<FontFace>Arial</FontFace>
+<FontSize>4</FontSize>
+<SearchResult>
+this is a &lt;div class="highlight"&gt;snippet&lt;/div&gt;
+</SearchResult>
+</SearchResults>
