@@ -1,0 +1,7 @@
+d:\testingthings\DotFermion.DiacriticAnalyzer\DotFermion.DiacriticAnalyzer\obj\Debug\ResolveAssemblyReference.cache
+d:\testingthings\DotFermion.DiacriticAnalyzer\DotFermion.DiacriticAnalyzer\bin\Debug\DotFermion.DiacriticAnalyzer.dll
+d:\testingthings\DotFermion.DiacriticAnalyzer\DotFermion.DiacriticAnalyzer\bin\Debug\DotFermion.DiacriticAnalyzer.pdb
+d:\testingthings\DotFermion.DiacriticAnalyzer\DotFermion.DiacriticAnalyzer\bin\Debug\Lucene.Net.dll
+d:\testingthings\DotFermion.DiacriticAnalyzer\DotFermion.DiacriticAnalyzer\bin\Debug\Lucene.Net.pdb
+d:\testingthings\DotFermion.DiacriticAnalyzer\DotFermion.DiacriticAnalyzer\obj\Debug\DotFermion.DiacriticAnalyzer.dll
+d:\testingthings\DotFermion.DiacriticAnalyzer\DotFermion.DiacriticAnalyzer\obj\Debug\DotFermion.DiacriticAnalyzer.pdb

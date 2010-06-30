@@ -1,0 +1,5 @@
+d:\testingthings\DotFermion.IFilters\DotFermion.IFilters\bin\Debug\DotFermion.IFilters.dll
+d:\testingthings\DotFermion.IFilters\DotFermion.IFilters\bin\Debug\DotFermion.IFilters.pdb
+d:\testingthings\DotFermion.IFilters\DotFermion.IFilters\obj\Debug\ResolveAssemblyReference.cache
+d:\testingthings\DotFermion.IFilters\DotFermion.IFilters\obj\Debug\DotFermion.IFilters.dll
+d:\testingthings\DotFermion.IFilters\DotFermion.IFilters\obj\Debug\DotFermion.IFilters.pdb
